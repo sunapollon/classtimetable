@@ -11,554 +11,114 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel=”shortcut icon” href=”favicon.ico”>
-    <style>
-
-        body, html {
-            -webkit-print-color-adjust: exact !important;
-            width: 100%;
-            height: 100%;
-            overflow-x: hidden;
-        }
-
-        body {
-            background-image: url("back.png");
-            background-size: cover;
-        }
-
-        #chooser, #viewer {
-            width: 100%;
-            height: 100%;
-            margin: 0;
-        }
-
-        #chooser > div, #viewer > div {
-            width: 900px;
-            margin: auto;
-            background: #ffffffbb;
-            padding: 30px;
-            height: fit-content;
-            backdrop-filter: blur(5px);
-        }
-
-        #chooser, #viewer {
-            animation: fadein 0.3s cubic-bezier(0, 0.7, 0, 0.7);
-        }
-
-        .input-field input[type=text]:focus + label {
-            color: #000 !important;
-        }
-
-        /* label underline focus color */
-        .input-field input[type=text]:focus {
-            border-bottom: 1px solid #000 !important;
-            box-shadow: 0 1px 0 0 #000 !important;
-        }
-
-        #viewer {
-            display: none;
-        }
-
-        body {
-            font-family: 'NanumSquare', sans-serif;
-        }
-
-        .normal {
-            font-weight: 400
-        }
-
-        .bold {
-            font-weight: 700
-        }
-
-        .bolder {
-            font-weight: 800
-        }
-
-        .light {
-            font-weight: 300
-        }
-
-        .openModal {
-            cursor: pointer;
-        }
-
-        #table > tr > td {
-            height: 65px !important;
-            padding: 13px 17px;
-        }
-
-        #stable > tr {
-            max-height: 65px;
-        }
-
-        #stable > tr > td:nth-child(1),
-        #stable > tr > td:nth-child(2) {
-            min-width: 50px;
-        }
-
-        td {
-            width: 650px !important;
-            overflow: hidden;
-        }
-
-        .nameLink {
-            color: black;
-            transition: 0.1s ease-in all;
-        }
-
-        .nameLink:hover {
-            color: #039be5;
-        }
-
-        .switch label .lever {
-            background-color: #a6a6a6;
-        }
-
-        .switch label input[type=checkbox]:checked + .lever {
-            background-color: #a6a6a6;
-        }
-
-        .switch label input[type=checkbox]:checked + .lever:after {
-            background-color: #737373;
-        }
-
-        @media screen and (min-width: 600px) {
-            .mobile-break {
-                display: none;
-            }
-
-            #chooser > div, #viewer > div {
-                box-shadow: 20px 20px 60px #d9d9d9;
-                border-radius: 50px;
-                background: #ffffffee;
-            }
-        }
-
-        @media print {
-            .mobile-break {
-                display: none !important;
-            }
-        }
-
-        @keyframes fadein {
-            0% {
-                margin-top: 30px;
-                height: calc(100% - 30px);
-                opacity: 0;
-            }
-            100% {
-                margin-top: 0;
-                opacity: 1;
-            }
-        }
-
-        .fout {
-            animation: fadeout 0.3s cubic-bezier(0.7, 0, 0.7, 0) !important;
-        }
-
-        @keyframes fadeout {
-            0% {
-                margin-top: 0;
-                opacity: 1;
-            }
-            100% {
-                margin-top: -10px;
-                opacity: 0;
-            }
-        }
-    </style>
-    <script>
-        let stuid, data, user, zoomInfo, classList = [[], [], [], [], []]
-        const colors = ['red', 'pink', 'purple', 'indigo', 'cyan', 'light-green', 'lime', 'amber', 'brown', 'teal', 'light-blue', 'deep-orange', 'green', 'deep-purple', 'yellow', 'blue']
-
-        async function notify(className) {
-            if (!modalHandler(className, true)) return
-            if (Notification.permission !== "granted") await Notification.requestPermission();
-            else {
-                const zoomList = []
-                for (let i of zoomInfo.data) {
-                    if (i.name === className) zoomList.push({
-                        id: i.id,
-                        pwd: i.pwd,
-                        teacher: i.teacher,
-                    })
-                }
-                navigator.serviceWorker.ready.then(function (registration) {
-                    registration.showNotification('알림', {
-                        icon: 'notify.png',
-                        body: `곧 ${className} 수업시간이에요!`,
-                        actions: zoomList.map(i => {
-                            return {
-                                action: `zoom.${i.id}.${i.pwd}.${i.teacher}`,
-                                title: `${i.teacher}쌤 줌`
-                            }
-                        })
-                    });
-                    self.onclick = function (e) {
-                        e.preventDefault()
-                        window.focus()
-                    };
-                });
-
-            }
-        }
-
-        function notifyTime() {
-            let target, idx = 0;
-            const date = new Date().getDay() - 1
-            if (date < 0 || date > 4) return
-            const classHour = [8, 9, 10, 11, 13, 14, 15, 16, 17]
-            const classMinute = [35, 30, 25, 20, 15, 10, 5, 15, 10]
-            for (idx = 8; idx >= 0; idx--) {
-                if (classHour[idx] == new Date().getHours() && classMinute[idx] <= new Date().getMinutes() && classMinute[idx] + 10 >= new Date().getMinutes()) {
-                    target = classList[date][idx]
-                    break
-                }
-            }
-            if (target && !['공강', 'SA', '창체', ' '].includes(target)) {
-                if (window.localStorage.target != target) notify(target)
-                window.localStorage.target = target
-            }
-        }
-
-        function draw() {
-            let search = document.getElementById('gf').value
-            document.getElementById('name').innerText = user.name
-            let totalClass = 0, gg = {}, colorSet = {}, realClass = 0
-            classList = [[], [], [], [], []]
-            for (let i = 0; i < 5; i++) {
-                for (let j = 0; j < 9; j++) classList[i].push(document.getElementById('gongang').checked ? "공강" : " ")
-            }
-            let cn = 0
-            if (stuid[0] === '2') {
-                classList[4][7] = '창체'
-                classList[4][8] = '창체'
-                classList[4][5] = '동아리'
-                classList[4][6] = '동아리'
-                classList[2][5] = 'SA'
-                classList[2][6] = 'SA'
-                classList[2][7] = 'SA'
-                classList[2][8] = 'SA'
-                if (document.getElementById('color').checked) colorSet['창체'] = colors[0]
-                ++cn
-                if (document.getElementById('color').checked) colorSet['동아리'] = colors[1]
-            }
-            if (stuid[0] === '3') {
-                classList[2][5] = 'SA'
-                classList[2][6] = 'SA'
-                classList[4][5] = '동아리'
-                classList[4][6] = '동아리'
-                if (document.getElementById('color').checked) colorSet['창체'] = colors[0]
-                ++cn
-                if (document.getElementById('color').checked) colorSet['동아리'] = colors[1]
-            }
-            if (document.getElementById('color').checked) colorSet['SA'] = colors[cn]
-            ++cn
-            //console.log(user.data)
-            for (let i of user.data) {
-                let nowClass = _.filter(data.class, i).length
-                totalClass += nowClass
-                realClass += nowClass
-                if (i.className.includes('AP')) realClass -= 1
-                _.filter(data.class, i).forEach((cl) => {
-                    if (document.getElementById('color').checked) {
-                        colorSet[cl.className] = colors[cn]
-                    }
-                    classList[parseInt(cl.day)][parseInt(cl.time)] = cl.className
-                    //console.log(classList, cl)
-                })
-
-                for (let u of data.user) {
-                    if (_.find(u.data, i)) {
-                        if (!gg[u.id]) {gg[u.id] = []}
-                        gg[u.id].push({name: i.className, time: nowClass})
-                    }
-                }
-
-                ++cn;
-            }
-            document.getElementById('table').innerHTML = ''
-            document.getElementById('stable').innerHTML = ''
-            for (let i = 1; i <= 9; i++) {
-                document.getElementById('table').innerHTML += `<tr>
-                <td>${i}교시</td>
-                <td onclick="modalHandler('${classList[0][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[0][i - 1]) ? '' : 'openModal'} ${colorSet[classList[0][i - 1]]} lighten-3">${classList[0][i - 1]}</td>
-                <td onclick="modalHandler('${classList[1][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[1][i - 1]) ? '' : 'openModal'} ${colorSet[classList[1][i - 1]]} lighten-3">${classList[1][i - 1]}</td>
-                <td onclick="modalHandler('${classList[2][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[2][i - 1]) ? '' : 'openModal'} ${colorSet[classList[2][i - 1]]} lighten-3">${classList[2][i - 1]}</td>
-                <td onclick="modalHandler('${classList[3][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[3][i - 1]) ? '' : 'openModal'} ${colorSet[classList[3][i - 1]]} lighten-3">${classList[3][i - 1]}</td>
-                <td onclick="modalHandler('${classList[4][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[4][i - 1]) ? '' : 'openModal'} ${colorSet[classList[4][i - 1]]} lighten-3">${classList[4][i - 1]}</td>
-            </tr>`
-            }
-            let mag = 0
-            for (let i in gg) {
-                if (i !== document.getElementById("stuid").value && (!search || _.find(data.user, {id: i}).name.includes(search))) mag = Math.max(mag, gg[i].length)
-            }
-            document.getElementById('stableh').innerHTML = `<th>이름</th>
-                    <th>시간</th>`
-            for (let i = 0; i < mag; i++) document.getElementById('stableh').innerHTML += `<th>${i + 1}</th>`
-
-            for (let i of data.user) {
-                if (stuid[0] === i.id[0] && stuid !== i.id && !gg[i.id]) gg[i.id] = []
-            }
-
-            let gginfo = []
-            for (let i in gg) {
-                let thtml = '', ti = 0
-                for (let j of gg[i]) {
-                    thtml += `<td class="${colorSet[j.name]} lighten-3">${j.name}</td>`
-                    ti += j.time
-                }
-                for (let j = 0; j < mag - gg[i].length; j++) thtml += '<td></td>'
-                if (i !== document.getElementById("stuid").value && (!search || _.find(data.user, {id: i}).name.includes(search))) gginfo.push({
-                    name: _.find(data.user, {id: i}).name,
-                    id: _.find(data.user, {id: i}).id,
-                    html: thtml,
-                    time: ti
-                })
-            }
-            gginfo = _.orderBy(gginfo, ['time'], ['asc']).reverse();
-            for (let i of gginfo) {
-                document.getElementById('stable').innerHTML += `<tr>
-                            <td><A href = "https://kkigon.github.io/myclass/#${i.id}" target = "blank" class="nameLink">${i.name}</A></td>
-                            <td>${i.time}시간</td>
-                            ${i.html}
-                        </tr>`
-            }
-            if (realClass === totalClass) document.getElementById('totalClass').innerText = totalClass + '학점'
-            else document.getElementById('totalClass').innerText = totalClass + '시간 (' + realClass + '학점)'
-        }
-
-        function copyPwd(password) {
-            navigator.clipboard.writeText(password)
-            M.toast({html: '비밀번호를 복사했습니다.', displayLength: 2000})
-            modal.close()
-        }
-
-        function modalHandler(subject, soon = false) {
-            if (['공강', 'SA', '창체', ' '].includes(subject)) return false
-            document.getElementById('modalId').innerText = soon ? `곧 ${subject} 수업이에요!` : subject
-            document.getElementById('modalContent').innerHTML = ''
-            for (let i of zoomInfo.data) {
-                if (i.name === subject) {
-                    document.getElementById('modalContent').innerHTML += `<div class="row">
-                    <div class="col s12">
-                        <div class="card">
-                            <div class="card-content">
-                                <span class="card-title">${i.teacher} 선생님</span>
-                                <p>아이디 : ${i.id}</p>
-                                <p>비밀번호 : ${i.pwd}</p>
-                            </div>
-                            <div class="card-action">
-                                <a href="zoommtg://zoom.us/join?confno=${i.id}" onclick="copyPwd('${i.pwd}')">접속하기</a>
-                            </div>
-                        </div>
-                    </div>`
-                }
-            }
-            modal.open()
-            return true
-        }
-
-        function view() {
-            stuid = document.getElementById('stuid').value
-            fetch(stuid[0] + ".json")
-                .then(response => response.json())
-                .then(json => {
-                    data = json
-                    user = _.find(data.user, {id: document.getElementById("stuid").value})
-                    if (!user) {
-                        M.toast({html: '학번이 올바르지 않아요.'})
-                        document.getElementById("stuid").value = ""
-                        return
-                    }
-                    if (!location.hash.slice(1) || isNaN(location.hash.slice(1))) history.pushState(null, user.name, '#' + stuid)
-                    document.getElementById('chooser').classList.add('fout')
-                    document.getElementById('viewer').classList.remove('fout')
-                    setTimeout(() => {
-                        document.getElementById('chooser').style.display = 'none'
-                        document.getElementById('viewer').style.display = 'flex'
-                    }, 300)
-                    draw(true)
-                }).catch(() => {
-                M.toast({html: '오류가 발생했어요.'})
-                document.getElementById("stuid").value = ""
-            });
-        }
-
-        document.addEventListener('DOMContentLoaded', () => {
-            Notification.requestPermission();
-            setInterval(notifyTime, 1000)
-            navigator.serviceWorker.register('service.js').then(function (registration) {
-                console.log('Service worker successfully registered.');
-                return registration;
-            }).catch(function (err) {
-                console.error('Unable to register service worker.', err);
-            });
-            fetch('zoom.json').then(res => res.json()).then(json => zoomInfo = json)
-            modal = M.Modal.init(document.getElementById('zoomInfo'))
-            document.getElementById('stuid').addEventListener("keyup", (e) => {
-                if (e.currentTarget.value.length >= 5) view()
-            });
-            document.getElementById('gf').addEventListener("keyup", (e) => {
-                draw()
-            });
-            window.addEventListener('popstate', (event) => {
-                loadPage()
-            });
-            document.getElementById('stuid').focus()
-            loadPage()
-        })
-
-        function loadPage() {
-            let currentPage = location.hash.slice(1)
-            if (currentPage && !isNaN(currentPage)) {
-                document.getElementById('stuid').value = currentPage
-                view()
-            } else {
-                document.getElementById('stuid').value = ''
-                document.getElementById('chooser').classList.remove('fout')
-                document.getElementById('viewer').classList.add('fout')
-                setTimeout(() => {
-                    document.getElementById('chooser').style.display = 'flex'
-                    document.getElementById('viewer').style.display = 'none'
-                    document.getElementById('stuid').focus()
-                }, 300)
-            }
-        }
-
-        function pr() {
-            document.getElementById('sw').style.display = 'none'
-            document.getElementById('gg').style.display = 'none'
-            document.getElementById('back').style.display = 'none'
-            document.getElementById('cont').style.boxShadow = 'none'
-            document.getElementById('print').style.display = 'none'
-            document.getElementById('copyright').style.display = 'none'
-            document.getElementById('viewer').style.overflowY = 'hidden'
-            window.print()
-            document.getElementById('sw').style.display = 'inline-block'
-            document.getElementById('gg').style.display = ''
-            document.getElementById('back').style.display = ''
-            document.getElementById('cont').style.boxShadow = ''
-            document.getElementById('print').style.display = ''
-            document.getElementById('copyright').style.display = ''
-            document.getElementById('viewer').style.overflowY = ''
-        }
-
-        const requestNotificationPermission = async () => {
-            const permission = await window.Notification.requestPermission()
-            if (permission !== 'granted') {
-                throw new Error('Permission not granted for Notification')
-            }
-        }
-    </script>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js"></script>
 </head>
 <body>
-<div id="chooser" style="display:inline-flex;">
-    <div>
-        <h1 class="bold"><div>인과영</div><div>시간표 뷰어</div></h1>
-        <h4 class="light">학번을 입력하세요.</h4>
-        <br/>
-        <div class="row">
-            <div class="input-field col s12">
-                <input id="stuid" type="text">
-                <label for="stuid">학번</label>
-                <button class="btn waves-effect waves-light" type="submit" name="action" style="background-color: #ffe38e!important;color:#a3967c;float:right;" onclick="view();">Submit
-                    <i class="material-icons right">send</i>
-                </button>
-            </div>
-        </div>
-        <p>2024 <a href="https://github.com/Seo-Rii">Studio SEORII</a>. All right reserved.</p>
-    </div>
-</div>
 
-<div id="viewer">
-    <div id="cont">
-        <a class="waves-effect waves-circle waves-dark" style="margin-top: -25px;" onclick="history.back()"
-           id="back">
-            <i class="material-icons" style="margin-top: 5px;color:black !important;">arrow_back</i>
-        </a>
-        <h2 id="name" class="bold" style="display: inline;margin:10px"></h2>
-        <h4 id="totalClass" style="display: inline;margin-bottom: 20px;"></h4>
-        <br class="mobile-break">
-        <br class="mobile-break">
-        <br class="mobile-break">
-        <br class="mobile-break">
-        <div id="sw" style="display:inline-block;margin-left: 10px;position: relative;top:-25px;">
-            <div style="display: flex;flex-direction: column">
-                <div class="switch" style="margin:5px;">
-                    <label>
-                        흑백
-                        <input type="checkbox" id="color" checked onclick="draw()">
-                        <span class="lever"></span>
-                        색상
-                    </label>
-                </div>
-                <div class="switch" style="margin:5px;">
-                    <label>
-                        공강 숨김
-                        <input type="checkbox" id="gongang" onclick="draw()">
-                        <span class="lever"></span>
-                        공강 표시
-                    </label>
-                </div>
-            </div>
-        </div>
-        <a class="waves-effect waves-dark btn-flat" style="float: right;" onclick="pr()" id="print">시간표만 출력</a>
-        <br/>
-        <table class="centered striped" style="margin-top: 20px;">
-            <thead>
-            <tr>
-                <th></th>
-                <th>월</th>
-                <th>화</th>
-                <th>수</th>
-                <th>목</th>
-                <th>금</th>
-            </tr>
-            </thead>
-            <tbody id="table">
-            </tbody>
-        </table>
-        <div id="gg">
-            <h3 class="bold">겹강</h3>
+    <div id="chooser" style="display:inline-flex;">
+        <div>
+            <h1 class="bold"><div>인과영</div><div>시간표 뷰어</div></h1>
+            <h4 class="light">학번을 입력하세요.</h4>
+            <br/>
             <div class="row">
                 <div class="input-field col s12">
-                    <input id="gf" type="text">
-                    <label for="gf">겹강 검색</label>
+                    <input id="stuid" type="text">
+                    <label for="stuid">학번</label>
+                    <button class="btn waves-effect waves-light" type="submit" name="action" style="background-color: #ffe38e!important;color:#a3967c;float:right;" onclick="view();">Submit
+                        <i class="material-icons right">send</i>
+                    </button>
                 </div>
             </div>
-            <div style="max-height: 350px;overflow-y:scroll">
-                <table class="centered striped" style="margin-top: 20px;">
-                    <thead>
-                    <tr id="stableh"></tr>
-                    </thead>
-                    <tbody id="stable">
-                    </tbody>
-                </table>
-            </div>
+            <p>2024 <a href="https://github.com/Seo-Rii">Studio SEORII</a>. All right reserved.</p>
         </div>
-        <p id="copyright">2024 <a href="https://github.com/Seo-Rii">Studio SEORII</a>. All right reserved.</p>
     </div>
-</div>
-<div id="soonClass" class="modal">
-    <div class="modal-content">
-        <h4 id="soonTitle"></h4>
-        <div id="soonContent"></div>
+
+    <div id="viewer">
+        <div id="cont">
+            <a class="waves-effect waves-circle waves-dark" style="margin-top: -25px;" onclick="history.back()"
+            id="back">
+                <i class="material-icons" style="margin-top: 5px;color:black !important;">arrow_back</i>
+            </a>
+            <h2 id="name" class="bold" style="display: inline;margin:10px"></h2>
+            <h4 id="totalClass" style="display: inline;margin-bottom: 20px;"></h4>
+            <br class="mobile-break">
+            <br class="mobile-break">
+            <br class="mobile-break">
+            <br class="mobile-break">
+            <div id="sw" style="display:inline-block;margin-left: 10px;position: relative;top:-25px;">
+                <div style="display: flex;flex-direction: column">
+                    <div class="switch" style="margin:5px;">
+                        <label>
+                            흑백
+                            <input type="checkbox" id="color" checked onclick="draw()">
+                            <span class="lever"></span>
+                            색상
+                        </label>
+                    </div>
+                    <div class="switch" style="margin:5px;">
+                        <label>
+                            공강 숨김
+                            <input type="checkbox" id="gongang" onclick="draw()">
+                            <span class="lever"></span>
+                            공강 표시
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <a class="waves-effect waves-dark btn-flat" style="float: right;" onclick="pr()" id="print">시간표만 출력</a>
+            <br/>
+
+            <table class="centered striped" style="margin-top: 20px;">
+
+                <thead>
+                <tr>
+                    <th></th>
+                    <th>월</th>
+                    <th>화</th>
+                    <th>수</th>
+                    <th>목</th>
+                    <th>금</th>
+                </tr>
+                </thead>
+                <tbody id="table">
+                </tbody>
+            </table>
+            <div id="gg">
+                <h3 class="bold">겹강</h3>
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input id="gf" type="text">
+                        <label for="gf">겹강 검색</label>
+                    </div>
+                </div>
+                <div style="max-height: 350px;overflow-y:scroll">
+                    <table class="centered striped" style="margin-top: 20px;">
+                        <thead>
+                        <tr id="stableh"></tr>
+                        </thead>
+                        <tbody id="stable">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <p id="copyright">2024 <a href="https://github.com/Seo-Rii">Studio SEORII</a>. All right reserved.</p>
+        </div>
     </div>
-    <div class="modal-footer">
-        <a class="modal-close waves-effect btn-flat">닫기</a>
+
+    <!-- 팝업창 -->
+    <div id="modal" class="modall">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2 id="modalId"></h2>
+            <h4 id="modalContent"></h4>
+            <hr>
+            <h3>같이 듣는 학생들</h3>
+            <br>
+            <p id="modalClassmates"></p>
+        </div>
     </div>
-</div>
-<div id="zoomInfo" class="modal">
-    <div class="modal-content">
-        <h4 id="modalId"></h4>
-        <br/>
-        <div id="modalContent"></div>
-    </div>
-    <div class="modal-footer">
-        <a class="modal-close waves-effect btn-flat">닫기</a>
-    </div>
-</div>
+
 </body>
 </html>
