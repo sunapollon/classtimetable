@@ -1,1 +1,3730 @@
-﻿{"class":[{"id":"X","className":"독서","place":"인문2","day":"0","time":"0"},{"id":"X","className":"정보과학융합프로젝트Ⅱ","place":"컴실1","day":"0","time":"0"},{"id":"X","className":"사회문화","place":"인문3","day":"0","time":"0"},{"id":"X","className":"시사영어","place":"영교3","day":"0","time":"0"},{"id":"X","className":"독서","place":"인문2","day":"0","time":"1"},{"id":"X","className":"정보과학융합프로젝트Ⅱ","place":"컴실1","day":"0","time":"1"},{"id":"X","className":"사회문화","place":"인문3","day":"0","time":"1"},{"id":"X","className":"시사영어","place":"영교3","day":"0","time":"1"},{"id":"D","className":"수학세미나Ⅱ","place":"수교4","day":"0","time":"2"},{"id":"D","className":"미분방정식","place":"수교5","day":"0","time":"2"},{"id":"D","className":"독서","place":"인문2","day":"0","time":"2"},{"id":"D","className":"수학세미나Ⅱ","place":"수교4","day":"0","time":"3"},{"id":"D","className":"미분방정식","place":"수교5","day":"0","time":"3"},{"id":"D","className":"독서","place":"인문2","day":"0","time":"3"},{"id":"L","className":"생명정보의융합적활용","place":"수교5","day":"0","time":"4"},{"id":"L2","className":"미래와융합","place":"인문2,영교1,인문3","day":"0","time":"4"},{"id":"L","className":"생명정보의융합적활용","place":"수교5","day":"0","time":"5"},{"id":"L2","className":"미래와융합","place":"인문2,영교1,인문3","day":"0","time":"5"},{"id":"N","className":"생명정보의융합적활용","place":"수교5","day":"0","time":"6"},{"id":"N","className":"Critical Reading","place":"영교3","day":"0","time":"6"},{"id":"N","className":"고급물리학Ⅱ","place":"AI융합","day":"0","time":"6"},{"id":"C","className":"수학세미나Ⅱ","place":"수교4","day":"1","time":"0"},{"id":"C","className":"물리학세미나Ⅱ","place":"AI융합","day":"1","time":"0"},{"id":"M","className":"생명정보의융합적활용","place":"수교5","day":"1","time":"1"},{"id":"M","className":"Critical Reading","place":"영교3","day":"1","time":"1"},{"id":"M","className":"분자생물학","place":"생실1","day":"1","time":"1"},{"id":"B","className":"수학세미나Ⅱ","place":"수교4","day":"1","time":"2"},{"id":"B","className":"물리학세미나Ⅱ","place":"AI융합","day":"1","time":"2"},{"id":"B","className":"첨단화학","place":"화교","day":"1","time":"2"},{"id":"D","className":"수학세미나Ⅱ","place":"수교4","day":"1","time":"3"},{"id":"D","className":"독서","place":"인문2","day":"1","time":"3"},{"id":"Y","className":"독서","place":"인문2","day":"1","time":"4"},{"id":"Y","className":"시사영어","place":"영교3","day":"1","time":"4"},{"id":"Y","className":"화학세미나Ⅱ","place":"화교","day":"1","time":"4"},{"id":"N","className":"생명정보의융합적활용","place":"수교5","day":"1","time":"5"},{"id":"N","className":"Critical Reading","place":"영교3","day":"1","time":"5"},{"id":"N","className":"고급물리학Ⅱ","place":"AI융합","day":"1","time":"5"},{"id":"N2","className":"미래와융합","place":"인문2,영교1,인문3","day":"1","time":"5"},{"id":"N","className":"생명정보의융합적활용","place":"수교5","day":"1","time":"6"},{"id":"N","className":"Critical Reading","place":"영교3","day":"1","time":"6"},{"id":"N","className":"고급물리학Ⅱ","place":"AI융합","day":"1","time":"6"},{"id":"N2","className":"미래와융합","place":"인문2,영교1,인문3","day":"1","time":"6"},{"id":"M","className":"생명정보의융합적활용","place":"수교5","day":"2","time":"0"},{"id":"M","className":"Critical Reading","place":"영교3","day":"2","time":"0"},{"id":"M","className":"분자생물학","place":"생교","day":"2","time":"0"},{"id":"M2","className":"미래와융합","place":"인문2,영교1,인문3","day":"2","time":"0"},{"id":"M","className":"생명정보의융합적활용","place":"수교5","day":"2","time":"1"},{"id":"M","className":"Critical Reading","place":"영교3","day":"2","time":"1"},{"id":"M","className":"분자생물학","place":"생교","day":"2","time":"1"},{"id":"M2","className":"미래와융합","place":"인문2,영교1,인문3","day":"2","time":"1"},{"id":"C","className":"수학세미나Ⅱ","place":"수교4","day":"2","time":"2"},{"id":"C","className":"물리학세미나Ⅱ","place":"AI융합","day":"2","time":"2"},{"id":"C","className":"수학세미나Ⅱ","place":"수교4","day":"2","time":"3"},{"id":"C","className":"물리학세미나Ⅱ","place":"AI융합","day":"2","time":"3"},{"id":"X","className":"독서","place":"인문2","day":"2","time":"4"},{"id":"X","className":"사회문화","place":"인문3","day":"2","time":"4"},{"id":"X","className":"시사영어","place":"영교3","day":"2","time":"4"},{"id":"L","className":"생명정보의융합적활용","place":"수교5","day":"3","time":"0"},{"id":"A","className":"수학세미나Ⅱ","place":"수교4","day":"3","time":"1"},{"id":"A","className":"미분방정식","place":"수교5","day":"3","time":"1"},{"id":"A","className":"물리학세미나Ⅱ","place":"AI융합","day":"3","time":"1"},{"id":"A","className":"생물학세미나Ⅱ","place":"생교","day":"3","time":"1"},{"id":"B","className":"수학세미나Ⅱ","place":"수교4","day":"3","time":"2"},{"id":"B","className":"물리학세미나Ⅱ","place":"AI융합","day":"3","time":"2"},{"id":"B","className":"첨단화학","place":"화교","day":"3","time":"2"},{"id":"B2","className":"예술사","place":"디자인실,음악실","day":"3","time":"2"},{"id":"B","className":"수학세미나Ⅱ","place":"수교4","day":"3","time":"3"},{"id":"B","className":"물리학세미나Ⅱ","place":"AI융합","day":"3","time":"3"},{"id":"B","className":"첨단화학","place":"화교","day":"3","time":"3"},{"id":"B2","className":"예술사","place":"디자인실,음악실","day":"3","time":"3"},{"id":"D","className":"미분방정식","place":"수교5","day":"3","time":"4"},{"id":"X","className":"정보과학융합프로젝트Ⅱ","place":"컴실1","day":"3","time":"4"},{"id":"Z","className":"생명정보의융합적활용","place":"수교5","day":"3","time":"5"},{"id":"Z","className":"독서","place":"인문2","day":"3","time":"5"},{"id":"Z","className":"정보과학융합프로젝트Ⅱ","place":"컴실1","day":"3","time":"5"},{"id":"Z","className":"시사영어","place":"영교3","day":"3","time":"5"},{"id":"Z2","className":"예술사","place":"디자인실,음악실","day":"3","time":"5"},{"id":"Z","className":"생명정보의융합적활용","place":"수교5","day":"3","time":"6"},{"id":"Z","className":"독서","place":"인문2","day":"3","time":"6"},{"id":"Z","className":"정보과학융합프로젝트Ⅱ","place":"컴실1","day":"3","time":"6"},{"id":"Z","className":"시사영어","place":"영교3","day":"3","time":"6"},{"id":"Z2","className":"예술사","place":"디자인실,음악실","day":"3","time":"6"},{"id":"Y","className":"독서","place":"인문2","day":"4","time":"0"},{"id":"Y","className":"시사영어","place":"영교3","day":"4","time":"0"},{"id":"Y","className":"화학세미나Ⅱ","place":"화교","day":"4","time":"0"},{"id":"Y","className":"독서","place":"인문2","day":"4","time":"1"},{"id":"Y","className":"시사영어","place":"영교3","day":"4","time":"1"},{"id":"Y","className":"화학세미나Ⅱ","place":"화교","day":"4","time":"1"},{"id":"A","className":"수학세미나Ⅱ","place":"수교4","day":"4","time":"2"},{"id":"A","className":"미분방정식","place":"수교5","day":"4","time":"2"},{"id":"A","className":"물리학세미나Ⅱ","place":"AI융합","day":"4","time":"2"},{"id":"A","className":"생물학세미나Ⅱ","place":"생교","day":"4","time":"2"},{"id":"A2","className":"예술사","place":"디자인실,음악실","day":"4","time":"2"},{"id":"A","className":"수학세미나Ⅱ","place":"수교4","day":"4","time":"3"},{"id":"A","className":"미분방정식","place":"수교5","day":"4","time":"3"},{"id":"A","className":"물리학세미나Ⅱ","place":"AI융합","day":"4","time":"3"},{"id":"A","className":"생물학세미나Ⅱ","place":"생교","day":"4","time":"3"},{"id":"A2","className":"예술사","place":"디자인실,음악실","day":"4","time":"3"},{"id":"Z","className":"생명정보의융합적활용","place":"수교5","day":"4","time":"4"},{"id":"Z","className":"독서","place":"인문2","day":"4","time":"4"},{"id":"Z","className":"정보과학융합프로젝트Ⅱ","place":"컴실1","day":"4","time":"4"},{"id":"Z","className":"시사영어","place":"영교3","day":"4","time":"4"}],"user":[{"name":"강산","id":"30101","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"Critical Reading","id":"M"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"독서","id":"D"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"곽명준","id":"30102","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"예술사","id":"Z2"},{"className":"생명정보의융합적활용","id":"M"},{"className":"Critical Reading","id":"N"},{"className":"미래와융합","id":"L2"},{"className":"독서","id":"X"}]},{"name":"국승훈","id":"30103","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"Z"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"김정우","id":"30104","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"Critical Reading","id":"N"},{"className":"독서","id":"Y"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"김준성","id":"30105","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"Z2"},{"className":"Critical Reading","id":"M"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"Y"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"백승유","id":"30106","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"생명정보의융합적활용","id":"M"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"Y"},{"className":"시사영어","id":"Z"}]},{"name":"백승재","id":"30107","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"Critical Reading","id":"N"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"Y"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"}]},{"name":"손예주","id":"30108","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"B2"},{"className":"미래와융합","id":"M2"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"사회문화","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"심서준","id":"30109","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"사회문화","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"양준혁","id":"30110","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"예술사","id":"B2"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"Critical Reading","id":"M"},{"className":"미래와융합","id":"L2"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"독서","id":"Y"}]},{"name":"이동현","id":"30111","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"예술사","id":"Z2"},{"className":"생명정보의융합적활용","id":"M"},{"className":"사회문화","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"이용규","id":"30112","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"Critical Reading","id":"N"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"Z"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"임승주","id":"30113","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"Critical Reading","id":"M"},{"className":"미래와융합","id":"L2"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"독서","id":"X"}]},{"name":"장인호","id":"30114","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"생명정보의융합적활용","id":"L"},{"className":"Critical Reading","id":"N"},{"className":"독서","id":"Z"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"전승윤","id":"30115","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"M"},{"className":"미래와융합","id":"L2"},{"className":"독서","id":"Y"},{"className":"시사영어","id":"Z"}]},{"name":"지형진","id":"30116","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"M"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"사회문화","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"김윤하","id":"30201","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"예술사","id":"B2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"미래와융합","id":"N2"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"Y"},{"className":"시사영어","id":"X"}]},{"name":"김지후","id":"30202","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"예술사","id":"B2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"N"},{"className":"미래와융합","id":"L2"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"X"},{"className":"시사영어","id":"Z"}]},{"name":"손이현","id":"30203","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"예술사","id":"B2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"Critical Reading","id":"N"},{"className":"미래와융합","id":"L2"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"D"}]},{"name":"현지연","id":"30204","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"예술사","id":"Z2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"L"},{"className":"미래와융합","id":"N2"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"고건희","id":"30205","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"N"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"X"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"}]},{"name":"김민재","id":"30206","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"N"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"D"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"사회문화","id":"X"}]},{"name":"김영민","id":"30207","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"L"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"D"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"사회문화","id":"X"}]},{"name":"김재근","id":"30208","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"예술사","id":"Z2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"L"},{"className":"미래와융합","id":"N2"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"D"},{"className":"시사영어","id":"X"}]},{"name":"김진원","id":"30209","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"예술사","id":"Z2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"N"},{"className":"미래와융합","id":"L2"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"D"},{"className":"시사영어","id":"X"}]},{"name":"류호연","id":"30210","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"예술사","id":"B2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"미래와융합","id":"N2"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"D"},{"className":"사회문화","id":"X"}]},{"name":"송동근","id":"30211","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"N"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"D"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"사회문화","id":"X"}]},{"name":"유성진","id":"30212","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"Critical Reading","id":"N"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"X"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"}]},{"name":"유태림","id":"30213","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"L"},{"className":"미래와융합","id":"N2"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"Z"},{"className":"시사영어","id":"X"}]},{"name":"정태한","id":"30214","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"예술사","id":"B2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"N"},{"className":"독서","id":"D"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"},{"className":"시사영어","id":"Z"}]},{"name":"최한호","id":"30215","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"예술사","id":"B2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"미래와융합","id":"N2"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"D"},{"className":"사회문화","id":"X"}]},{"name":"홍현준","id":"30216","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"예술사","id":"B2"},{"className":"생물학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"N"},{"className":"분자생물학","id":"M"},{"className":"독서","id":"Z"},{"className":"시사영어","id":"X"}]},{"name":"노윤아","id":"30301","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"D"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"N"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"Z"},{"className":"시사영어","id":"X"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"모연우","id":"30302","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"첨단화학","id":"B"},{"className":"생명정보의융합적활용","id":"M"},{"className":"Critical Reading","id":"N"},{"className":"독서","id":"X"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"오서연","id":"30303","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"첨단화학","id":"B"},{"className":"생명정보의융합적활용","id":"N"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"D"},{"className":"시사영어","id":"Z"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"조서연","id":"30304","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"첨단화학","id":"B"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"Critical Reading","id":"M"},{"className":"미래와융합","id":"L2"},{"className":"독서","id":"D"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"황지우","id":"30305","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"첨단화학","id":"B"},{"className":"예술사","id":"Z2"},{"className":"생명정보의융합적활용","id":"L"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"D"},{"className":"시사영어","id":"X"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"김민서","id":"30306","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"예술사","id":"B2"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"Critical Reading","id":"N"},{"className":"미래와융합","id":"L2"},{"className":"독서","id":"X"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"김보욱","id":"30307","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"첨단화학","id":"B"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"M"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"X"},{"className":"시사영어","id":"Z"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"김진홍","id":"30308","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"첨단화학","id":"B"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"L"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"X"},{"className":"시사영어","id":"Z"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"박민성","id":"30309","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"첨단화학","id":"B"},{"className":"생명정보의융합적활용","id":"N"},{"className":"Critical Reading","id":"M"},{"className":"미래와융합","id":"L2"},{"className":"독서","id":"Z"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"박상찬","id":"30310","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"첨단화학","id":"B"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"Critical Reading","id":"N"},{"className":"미래와융합","id":"L2"},{"className":"시사영어","id":"X"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"박준경","id":"30311","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"첨단화학","id":"B"},{"className":"예술사","id":"Z2"},{"className":"생명정보의융합적활용","id":"M"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"D"},{"className":"시사영어","id":"X"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"심희준","id":"30312","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"첨단화학","id":"B"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"L"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"Z"},{"className":"사회문화","id":"X"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"양원재","id":"30313","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"예술사","id":"B2"},{"className":"생명정보의융합적활용","id":"L"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"Z"},{"className":"사회문화","id":"X"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"이윤수","id":"30314","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"첨단화학","id":"B"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"M"},{"className":"미래와융합","id":"L2"},{"className":"독서","id":"X"},{"className":"시사영어","id":"Z"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"이재용","id":"30315","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"첨단화학","id":"B"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"M"},{"className":"독서","id":"Z"},{"className":"사회문화","id":"X"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"임정우","id":"30316","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"D"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"N"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"Z"},{"className":"사회문화","id":"X"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"조경찬","id":"30317","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"첨단화학","id":"B"},{"className":"예술사","id":"A2"},{"className":"생명정보의융합적활용","id":"L"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"X"},{"className":"시사영어","id":"Z"},{"className":"화학세미나Ⅱ","id":"Y"}]},{"name":"박시언","id":"30401","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"예술사","id":"Z2"},{"className":"생명정보의융합적활용","id":"L"},{"className":"미래와융합","id":"M2"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"독서","id":"D"},{"className":"시사영어","id":"X"}]},{"name":"양은서","id":"30402","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"예술사","id":"Z2"},{"className":"생명정보의융합적활용","id":"N"},{"className":"미래와융합","id":"M2"},{"className":"사회문화","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"이지연","id":"30403","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"B2"},{"className":"생명정보의융합적활용","id":"N"},{"className":"독서","id":"Y"},{"className":"시사영어","id":"Z"}]},{"name":"김현수","id":"30404","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"B2"},{"className":"생명정보의융합적활용","id":"N"},{"className":"미래와융합","id":"L2"},{"className":"독서","id":"Y"},{"className":"시사영어","id":"Z"}]},{"name":"문단세","id":"30405","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"미래와융합","id":"L2"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"독서","id":"D"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"유도윤","id":"30406","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"예술사","id":"A2"},{"className":"미래와융합","id":"L2"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"사회문화","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"이윤태","id":"30407","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"생명정보의융합적활용","id":"M"},{"className":"Critical Reading","id":"N"},{"className":"독서","id":"D"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"}]},{"name":"이현준","id":"30408","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"Z2"},{"className":"생명정보의융합적활용","id":"L"},{"className":"Critical Reading","id":"N"},{"className":"시사영어","id":"X"}]},{"name":"정민규","id":"30409","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"Y"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"시사영어","id":"X"}]},{"name":"조이황","id":"30410","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"Z2"},{"className":"생명정보의융합적활용","id":"L"},{"className":"Critical Reading","id":"M"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"Y"}]},{"name":"채정윤","id":"30411","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"Critical Reading","id":"M"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"Y"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"최서현","id":"30412","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"예술사","id":"Z2"},{"className":"Critical Reading","id":"N"},{"className":"독서","id":"Y"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"최선웅","id":"30413","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"L"},{"className":"Critical Reading","id":"M"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"독서","id":"Z"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"홍준기","id":"30414","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"Critical Reading","id":"M"},{"className":"미래와융합","id":"L2"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"독서","id":"X"}]},{"name":"황지성","id":"30415","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"B2"},{"className":"생명정보의융합적활용","id":"L"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"독서","id":"Z"},{"className":"시사영어","id":"Y"}]},{"name":"이예인","id":"30501","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"Critical Reading","id":"M"},{"className":"독서","id":"Y"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"조성은","id":"30502","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"Critical Reading","id":"M"},{"className":"미래와융합","id":"L2"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"사회문화","id":"X"}]},{"name":"김규민","id":"30503","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"Z2"},{"className":"Critical Reading","id":"M"},{"className":"독서","id":"Y"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"}]},{"name":"김준서","id":"30504","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"Z"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"김준희","id":"30505","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"B"},{"className":"생명정보의융합적활용","id":"M"},{"className":"독서","id":"Z"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"김지훈","id":"30506","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"Critical Reading","id":"N"},{"className":"독서","id":"X"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"}]},{"name":"방예준","id":"30507","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"N"},{"className":"미래와융합","id":"M2"},{"className":"독서","id":"Z"},{"className":"시사영어","id":"X"}]},{"name":"이도","id":"30508","data":[{"className":"수학세미나Ⅱ","id":"A"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"B2"},{"className":"생명정보의융합적활용","id":"M"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"Z"},{"className":"사회문화","id":"X"}]},{"name":"이세환","id":"30509","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"N"},{"className":"Critical Reading","id":"M"},{"className":"독서","id":"Y"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"}]},{"name":"이영학","id":"30510","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"L"},{"className":"정보과학융합프로젝트Ⅱ","id":"Z"},{"className":"사회문화","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"정승훈","id":"30511","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"생명정보의융합적활용","id":"M"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"X"},{"className":"시사영어","id":"Z"}]},{"name":"정윤규","id":"30512","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"예술사","id":"B2"},{"className":"생명정보의융합적활용","id":"M"},{"className":"미래와융합","id":"N2"},{"className":"사회문화","id":"X"},{"className":"시사영어","id":"Z"}]},{"name":"최효민","id":"30513","data":[{"className":"수학세미나Ⅱ","id":"C"},{"className":"미분방정식","id":"D"},{"className":"물리학세미나Ⅱ","id":"A"},{"className":"예술사","id":"Z2"},{"className":"미래와융합","id":"N2"},{"className":"독서","id":"Y"},{"className":"시사영어","id":"X"}]},{"name":"홍원기","id":"30514","data":[{"className":"수학세미나Ⅱ","id":"B"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"생명정보의융합적활용","id":"L"},{"className":"Critical Reading","id":"M"},{"className":"고급물리학Ⅱ","id":"N"},{"className":"정보과학융합프로젝트Ⅱ","id":"X"},{"className":"시사영어","id":"Y"}]},{"name":"홍창일","id":"30515","data":[{"className":"수학세미나Ⅱ","id":"D"},{"className":"미분방정식","id":"A"},{"className":"물리학세미나Ⅱ","id":"C"},{"className":"예술사","id":"Z2"},{"className":"생명정보의융합적활용","id":"M"},{"className":"Critical Reading","id":"N"},{"className":"독서","id":"X"}]}]}
+﻿{
+    "class": [
+        {
+            "id": "L",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "0",
+            "time": "0"
+        },
+        {
+            "id": "L",
+            "className": "중국어",
+            "place": "외국어3",
+            "day": "0",
+            "time": "0"
+        },
+        {
+            "id": "L",
+            "className": "일본어",
+            "place": "인문2",
+            "day": "0",
+            "time": "0"
+        },
+        {
+            "id": "L",
+            "className": "융합수학Ⅱ",
+            "place": "수교2",
+            "day": "0",
+            "time": "0"
+        },
+        {
+            "id": "L",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "0",
+            "time": "1"
+        },
+        {
+            "id": "L",
+            "className": "중국어",
+            "place": "외국어3",
+            "day": "0",
+            "time": "1"
+        },
+        {
+            "id": "L",
+            "className": "일본어",
+            "place": "인문2",
+            "day": "0",
+            "time": "1"
+        },
+        {
+            "id": "L",
+            "className": "융합수학Ⅱ",
+            "place": "수교2",
+            "day": "0",
+            "time": "1"
+        },
+        {
+            "id": "N",
+            "className": "생물학세미나Ⅰ",
+            "place": "생교",
+            "day": "0",
+            "time": "2"
+        },
+        {
+            "id": "N",
+            "className": "중국어",
+            "place": "외국어3",
+            "day": "0",
+            "time": "2"
+        },
+        {
+            "id": "N",
+            "className": "일본어",
+            "place": "인문2",
+            "day": "0",
+            "time": "2"
+        },
+        {
+            "id": "N",
+            "className": "심화물상과과학",
+            "place": "물실1",
+            "day": "0",
+            "time": "2"
+        },
+        {
+            "id": "N",
+            "className": "생물학세미나Ⅰ",
+            "place": "생교",
+            "day": "0",
+            "time": "3"
+        },
+        {
+            "id": "N",
+            "className": "중국어",
+            "place": "외국어3",
+            "day": "0",
+            "time": "3"
+        },
+        {
+            "id": "N",
+            "className": "일본어",
+            "place": "인문2",
+            "day": "0",
+            "time": "3"
+        },
+        {
+            "id": "N",
+            "className": "심화물상과과학",
+            "place": "물실1",
+            "day": "0",
+            "time": "3"
+        },
+        {
+            "id": "M",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "M",
+            "className": "중국어",
+            "place": "외국어3",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "M",
+            "className": "심화바이오화학",
+            "place": "화실1,생교",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "M",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "M",
+            "className": "중국어",
+            "place": "외국어3",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "M",
+            "className": "심화바이오화학",
+            "place": "화실1,생교",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "B",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "B",
+            "className": "창의적 글쓰기",
+            "place": "인문2",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "XB",
+            "className": "고급영어독해",
+            "place": "외국어2",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "C",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "C",
+            "className": "창의적 글쓰기",
+            "place": "인문2",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "C",
+            "className": "화학세미나Ⅰ",
+            "place": "화교",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "C2",
+            "className": "음악과테크놀로지",
+            "place": "음악실",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "C",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "C",
+            "className": "창의적 글쓰기",
+            "place": "인문2",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "C",
+            "className": "화학세미나Ⅰ",
+            "place": "화교",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "C2",
+            "className": "음악과테크놀로지",
+            "place": "음악실",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "A",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "A",
+            "className": "창의적 글쓰기",
+            "place": "인문2",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "A",
+            "className": "객체지향프로그래밍",
+            "place": "AI융합",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "A",
+            "className": "세포생물학",
+            "place": "생교",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "A2",
+            "className": "음악과테크놀로지",
+            "place": "음악실",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "A",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "A",
+            "className": "창의적 글쓰기",
+            "place": "인문2",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "A",
+            "className": "객체지향프로그래밍",
+            "place": "AI융합",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "A",
+            "className": "세포생물학",
+            "place": "생교",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "A2",
+            "className": "음악과테크놀로지",
+            "place": "음악실",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "Z",
+            "className": "선형대수학",
+            "place": "수교6",
+            "day": "1",
+            "time": "4"
+        },
+        {
+            "id": "Z",
+            "className": "유기화학",
+            "place": "화교",
+            "day": "1",
+            "time": "4"
+        },
+        {
+            "id": "Z",
+            "className": "융합수학Ⅱ",
+            "place": "수교2",
+            "day": "1",
+            "time": "4"
+        },
+        {
+            "id": "Y",
+            "className": "선형대수학",
+            "place": "수교6",
+            "day": "1",
+            "time": "5"
+        },
+        {
+            "id": "Y",
+            "className": "정보과학프로젝트",
+            "place": "AI융합",
+            "day": "1",
+            "time": "5"
+        },
+        {
+            "id": "Y2",
+            "className": "미술과테크놀로지",
+            "place": "미술실",
+            "day": "1",
+            "time": "5"
+        },
+        {
+            "id": "YT",
+            "className": "고급물리",
+            "place": "물교",
+            "day": "1",
+            "time": "5"
+        },
+        {
+            "id": "Y",
+            "className": "선형대수학",
+            "place": "수교6",
+            "day": "1",
+            "time": "6"
+        },
+        {
+            "id": "Y",
+            "className": "정보과학프로젝트",
+            "place": "AI융합",
+            "day": "1",
+            "time": "6"
+        },
+        {
+            "id": "Y2",
+            "className": "미술과테크놀로지",
+            "place": "미술실",
+            "day": "1",
+            "time": "6"
+        },
+        {
+            "id": "YT",
+            "className": "고급물리",
+            "place": "물교",
+            "day": "1",
+            "time": "6"
+        },
+        {
+            "id": "M",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "2",
+            "time": "0"
+        },
+        {
+            "id": "M",
+            "className": "중국어",
+            "place": "외국어2",
+            "day": "2",
+            "time": "0"
+        },
+        {
+            "id": "M",
+            "className": "심화바이오화학",
+            "place": "화실1,생교",
+            "day": "2",
+            "time": "0"
+        },
+        {
+            "id": "L",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "L",
+            "className": "중국어",
+            "place": "외국어2",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "L",
+            "className": "일본어",
+            "place": "수교1",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "L",
+            "className": "융합수학Ⅱ",
+            "place": "수교2",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "X",
+            "className": "선형대수학",
+            "place": "수교6",
+            "day": "2",
+            "time": "2"
+        },
+        {
+            "id": "X",
+            "className": "심화물상과과학",
+            "place": "물실1",
+            "day": "2",
+            "time": "2"
+        },
+        {
+            "id": "X",
+            "className": "정보과학프로젝트",
+            "place": "AI융합",
+            "day": "2",
+            "time": "2"
+        },
+        {
+            "id": "XB",
+            "className": "고급영어독해",
+            "place": "외국어2",
+            "day": "2",
+            "time": "2"
+        },
+        {
+            "id": "X",
+            "className": "선형대수학",
+            "place": "수교6",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "X",
+            "className": "심화물상과과학",
+            "place": "물실1",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "X",
+            "className": "정보과학프로젝트",
+            "place": "AI융합",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "XB",
+            "className": "고급영어독해",
+            "place": "외국어2",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "XT",
+            "className": "심화바이오화학",
+            "place": "화실1,생교",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "N",
+            "className": "생물학세미나Ⅰ",
+            "place": "생교",
+            "day": "2",
+            "time": "4"
+        },
+        {
+            "id": "N",
+            "className": "중국어",
+            "place": "외국어3",
+            "day": "2",
+            "time": "4"
+        },
+        {
+            "id": "N",
+            "className": "일본어",
+            "place": "수교1",
+            "day": "2",
+            "time": "4"
+        },
+        {
+            "id": "N",
+            "className": "심화물상과과학",
+            "place": "물실1",
+            "day": "2",
+            "time": "4"
+        },
+        {
+            "id": "Y",
+            "className": "선형대수학",
+            "place": "수교6",
+            "day": "3",
+            "time": "0"
+        },
+        {
+            "id": "Y",
+            "className": "정보과학프로젝트",
+            "place": "AI융합",
+            "day": "3",
+            "time": "0"
+        },
+        {
+            "id": "C",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "3",
+            "time": "1"
+        },
+        {
+            "id": "C",
+            "className": "창의적 글쓰기",
+            "place": "인문2",
+            "day": "3",
+            "time": "1"
+        },
+        {
+            "id": "C",
+            "className": "화학세미나Ⅰ",
+            "place": "화교",
+            "day": "3",
+            "time": "1"
+        },
+        {
+            "id": "D",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "D",
+            "className": "화학세미나Ⅰ",
+            "place": "화교",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "D",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "D2",
+            "className": "미술과테크놀로지",
+            "place": "미술실",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "D",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "D",
+            "className": "화학세미나Ⅰ",
+            "place": "화교",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "D",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "D2",
+            "className": "미술과테크놀로지",
+            "place": "미술실",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "A",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "A",
+            "className": "창의적 글쓰기",
+            "place": "인문2",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "A",
+            "className": "객체지향프로그래밍",
+            "place": "AI융합",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "A",
+            "className": "세포생물학",
+            "place": "생교",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "X",
+            "className": "선형대수학",
+            "place": "수교6",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "X",
+            "className": "심화물상과과학",
+            "place": "물실1",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "X",
+            "className": "정보과학프로젝트",
+            "place": "AI융합",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "XT",
+            "className": "심화바이오화학",
+            "place": "화실1,생교",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "YT",
+            "className": "고급물리",
+            "place": "물실2",
+            "day": "3",
+            "time": "6"
+        },
+        {
+            "id": "XT",
+            "className": "심화바이오화학",
+            "place": "화실1,생교",
+            "day": "3",
+            "time": "6"
+        },
+        {
+            "id": "B",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "B",
+            "className": "창의적 글쓰기",
+            "place": "인문2",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "B2",
+            "className": "음악과테크놀로지",
+            "place": "음악실",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "B",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "B",
+            "className": "창의적 글쓰기",
+            "place": "인문2",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "B2",
+            "className": "음악과테크놀로지",
+            "place": "음악실",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "Z",
+            "className": "선형대수학",
+            "place": "수교6",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "Z",
+            "className": "유기화학",
+            "place": "화교",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "Z",
+            "className": "융합수학Ⅱ",
+            "place": "수교4",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "Z2",
+            "className": "음악과테크놀로지",
+            "place": "음악실",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "Z2",
+            "className": "미술과테크놀로지",
+            "place": "미술실",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "Z",
+            "className": "선형대수학",
+            "place": "수교6",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "Z",
+            "className": "유기화학",
+            "place": "화교",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "Z",
+            "className": "융합수학Ⅱ",
+            "place": "수교4",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "Z2",
+            "className": "음악과테크놀로지",
+            "place": "음악실",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "Z2",
+            "className": "미술과테크놀로지",
+            "place": "미술실",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "D",
+            "className": "수학세미나Ⅰ",
+            "place": "수교6",
+            "day": "4",
+            "time": "4"
+        },
+        {
+            "id": "D",
+            "className": "화학세미나Ⅰ",
+            "place": "화교",
+            "day": "4",
+            "time": "4"
+        },
+        {
+            "id": "D",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "4",
+            "time": "4"
+        }
+    ],
+    "user": [
+        {
+            "name": "권서연",
+            "id": "30101",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                }
+            ]
+        },
+        {
+            "name": "남수민",
+            "id": "30102",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "박민주",
+            "id": "30103",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김민찬",
+            "id": "30104",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                }
+            ]
+        },
+        {
+            "name": "김하람",
+            "id": "30105",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                },
+                {
+                    "className": "고급영어독해",
+                    "id": "XB"
+                }
+            ]
+        },
+        {
+            "name": "노준호",
+            "id": "30106",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "문준원",
+            "id": "30107",
+            "data": [
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                }
+            ]
+        },
+        {
+            "name": "박강현",
+            "id": "30108",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "박준석",
+            "id": "30109",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "송준용",
+            "id": "30110",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "오승우",
+            "id": "30111",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "윤준혁",
+            "id": "30112",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "세포생물학",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "이윤재",
+            "id": "30113",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "이현석",
+            "id": "30114",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "인용건",
+            "id": "30115",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "정세헌",
+            "id": "30116",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "강민정",
+            "id": "30201",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "세포생물학",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "윤서원",
+            "id": "30202",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "최윤영",
+            "id": "30203",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "세포생물학",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                }
+            ]
+        },
+        {
+            "name": "곽정훈",
+            "id": "30204",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                }
+            ]
+        },
+        {
+            "name": "김광현",
+            "id": "30205",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                }
+            ]
+        },
+        {
+            "name": "김동하",
+            "id": "30206",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                }
+            ]
+        },
+        {
+            "name": "김종인",
+            "id": "30207",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김태민",
+            "id": "30208",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김현서",
+            "id": "30209",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                }
+            ]
+        },
+        {
+            "name": "박민찬",
+            "id": "30210",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                }
+            ]
+        },
+        {
+            "name": "백승원",
+            "id": "30211",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "신준우",
+            "id": "30212",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                }
+            ]
+        },
+        {
+            "name": "이석현",
+            "id": "30213",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                }
+            ]
+        },
+        {
+            "name": "이유현",
+            "id": "30214",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                },
+                {
+                    "className": "고급영어독해",
+                    "id": "XB"
+                }
+            ]
+        },
+        {
+            "name": "임현우",
+            "id": "30215",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "하윤수",
+            "id": "30216",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "세포생물학",
+                    "id": "A"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "신예나",
+            "id": "30301",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "안수련",
+            "id": "30302",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "이정은",
+            "id": "30303",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "강건모",
+            "id": "30304",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "권대원",
+            "id": "30305",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김대엽",
+            "id": "30306",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김범준",
+            "id": "30307",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김성윤",
+            "id": "30308",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "세포생물학",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                }
+            ]
+        },
+        {
+            "name": "김태연",
+            "id": "30309",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "서인성",
+            "id": "30310",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "손승혁",
+            "id": "30311",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "온주한",
+            "id": "30312",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "이건호",
+            "id": "30313",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "이지후",
+            "id": "30314",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "이태우",
+            "id": "30315",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "한승민",
+            "id": "30316",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "고급영어독해",
+                    "id": "XB"
+                }
+            ]
+        },
+        {
+            "name": "배희재",
+            "id": "30401",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                }
+            ]
+        },
+        {
+            "name": "유재이",
+            "id": "30402",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "정시연",
+            "id": "30403",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "세포생물학",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "강인성",
+            "id": "30404",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "권태준",
+            "id": "30405",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                }
+            ]
+        },
+        {
+            "name": "김승민",
+            "id": "30406",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "고급영어독해",
+                    "id": "XB"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "박범진",
+            "id": "30407",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                }
+            ]
+        },
+        {
+            "name": "배승주",
+            "id": "30408",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                }
+            ]
+        },
+        {
+            "name": "손동은",
+            "id": "30409",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                },
+                {
+                    "className": "고급영어독해",
+                    "id": "XB"
+                }
+            ]
+        },
+        {
+            "name": "송연수",
+            "id": "30410",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "안정현",
+            "id": "30411",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "세포생물학",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "이규빈",
+            "id": "30412",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "세포생물학",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "이정윤",
+            "id": "30413",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "이창휘",
+            "id": "30414",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "고급영어독해",
+                    "id": "XB"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "정하윤",
+            "id": "30415",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "세포생물학",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "천세호",
+            "id": "30416",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "김도연",
+            "id": "30501",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                }
+            ]
+        },
+        {
+            "name": "서아연",
+            "id": "30502",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "객체지향프로그래밍",
+                    "id": "A"
+                },
+                {
+                    "className": "생물학세미나Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "한수연",
+            "id": "30503",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "중국어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "강진규",
+            "id": "30504",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                }
+            ]
+        },
+        {
+            "name": "권대규",
+            "id": "30505",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                }
+            ]
+        },
+        {
+            "name": "김수민",
+            "id": "30506",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                }
+            ]
+        },
+        {
+            "name": "김지헌",
+            "id": "30507",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "L"
+                }
+            ]
+        },
+        {
+            "name": "김현수",
+            "id": "30508",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "박규연",
+            "id": "30509",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "XT"
+                }
+            ]
+        },
+        {
+            "name": "소우연",
+            "id": "30510",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "신희서",
+            "id": "30511",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "B"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "오명석",
+            "id": "30512",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "C2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "M"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "원영준",
+            "id": "30513",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Z2"
+                },
+                {
+                    "className": "심화물상과과학",
+                    "id": "N"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                },
+                {
+                    "className": "고급영어독해",
+                    "id": "XB"
+                }
+            ]
+        },
+        {
+            "name": "이준석",
+            "id": "30514",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "L"
+                },
+                {
+                    "className": "중국어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Z"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "D2"
+                },
+                {
+                    "className": "고급영어독해",
+                    "id": "XB"
+                }
+            ]
+        },
+        {
+            "name": "인지민",
+            "id": "30515",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "창의적 글쓰기",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "B2"
+                },
+                {
+                    "className": "일본어",
+                    "id": "N"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "X"
+                },
+                {
+                    "className": "미술과테크놀로지",
+                    "id": "Y2"
+                },
+                {
+                    "className": "심화바이오화학",
+                    "id": "M"
+                }
+            ]
+        },
+        {
+            "name": "함선우",
+            "id": "30516",
+            "data": [
+                {
+                    "className": "수학세미나Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "음악과테크놀로지",
+                    "id": "A2"
+                },
+                {
+                    "className": "물리학세미나Ⅰ",
+                    "id": "M"
+                },
+                {
+                    "className": "일본어",
+                    "id": "L"
+                },
+                {
+                    "className": "선형대수학",
+                    "id": "Y"
+                },
+                {
+                    "className": "융합수학Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학프로젝트",
+                    "id": "X"
+                }
+            ]
+        }
+    ]
+}
