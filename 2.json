@@ -666,6 +666,20 @@
             "time": "0"
         },
         {
+            "id": "ZT",
+            "className": "과학문명사",
+            "place": "생교",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "ZT",
+            "className": "과학문명사",
+            "place": "생교",
+            "day": "0",
+            "time": "5"
+        },
+        {
             "id": "D",
             "className": "(AP)미적분Ⅰ",
             "place": "수교1",
