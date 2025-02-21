@@ -1,0 +1,5088 @@
+﻿{
+    "class": [
+        {
+            "id": "X",
+            "className": "경제",
+            "place": "인문3",
+            "day": "0",
+            "time": "0"
+        },
+        {
+            "id": "X",
+            "className": "창의적디자인 Ⅰ",
+            "place": "미술실",
+            "day": "0",
+            "time": "0"
+        },
+        {
+            "id": "X",
+            "className": "Public Speaking and Presentation",
+            "place": "외국어2",
+            "day": "0",
+            "time": "0"
+        },
+        {
+            "id": "X",
+            "className": "경제",
+            "place": "인문3",
+            "day": "0",
+            "time": "1"
+        },
+        {
+            "id": "X",
+            "className": "창의적디자인 Ⅰ",
+            "place": "미술실",
+            "day": "0",
+            "time": "1"
+        },
+        {
+            "id": "X",
+            "className": "Public Speaking and Presentation",
+            "place": "외국어2",
+            "day": "0",
+            "time": "1"
+        },
+        {
+            "id": "B",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "0",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "0",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "(AP)일반화학Ⅰ",
+            "place": "화실1",
+            "day": "0",
+            "time": "2"
+        },
+        {
+            "id": "B3",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "0",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "0",
+            "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "0",
+            "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "(AP)일반화학Ⅰ",
+            "place": "화실1",
+            "day": "0",
+            "time": "3"
+        },
+        {
+            "id": "B1",
+            "className": "생활스포츠",
+            "place": "체육관",
+            "day": "0",
+            "time": "3"
+        },
+        {
+            "id": "Z",
+            "className": "(AP)일반화학실험Ⅰ",
+            "place": "화실1",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "Z",
+            "className": "경제",
+            "place": "인문3",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "Z",
+            "className": "영미문화탐구",
+            "place": "외국어3",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "Z",
+            "className": "창의적디자인 Ⅰ",
+            "place": "미술실",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "Z",
+            "className": "화법과 작문",
+            "place": "인문1",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "Z",
+            "className": "(AP)일반화학실험Ⅰ",
+            "place": "화실1",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "Z",
+            "className": "경제",
+            "place": "인문3",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "Z",
+            "className": "영미문화탐구",
+            "place": "외국어3",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "Z",
+            "className": "창의적디자인 Ⅰ",
+            "place": "미술실",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "Z",
+            "className": "화법과 작문",
+            "place": "인문1",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "O",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "O",
+            "className": "사회문제와 인문학적 상상력",
+            "place": "인문2",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "O",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "O",
+            "className": "알고리즘",
+            "place": "컴실2",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "O2",
+            "className": "문학",
+            "place": "인문1",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "O",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "0",
+            "time": "7"
+        },
+        {
+            "id": "O",
+            "className": "사회문제와 인문학적 상상력",
+            "place": "인문2",
+            "day": "0",
+            "time": "7"
+        },
+        {
+            "id": "O",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "0",
+            "time": "7"
+        },
+        {
+            "id": "O",
+            "className": "알고리즘",
+            "place": "컴실2",
+            "day": "0",
+            "time": "7"
+        },
+        {
+            "id": "O2",
+            "className": "문학",
+            "place": "인문1",
+            "day": "0",
+            "time": "7"
+        },
+        {
+            "id": "M",
+            "className": "과학문명사",
+            "place": "생교",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "M",
+            "className": "미래주제연구",
+            "place": "외국어2",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "M",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "M",
+            "className": "생활속의 데이터 분석",
+            "place": "컴실1",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "M",
+            "className": "알고리즘",
+            "place": "컴실2",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "M",
+            "className": "과학문명사",
+            "place": "생교",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "M",
+            "className": "미래주제연구",
+            "place": "외국어2",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "M",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "M",
+            "className": "생활속의 데이터 분석",
+            "place": "컴실1",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "M",
+            "className": "알고리즘",
+            "place": "컴실2",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "C",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "C",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "C",
+            "className": "(AP)일반화학Ⅰ",
+            "place": "화실1",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "C3",
+            "className": "일반생명과학Ⅰ",
+            "place": "생명과학실험Ⅰ",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "C",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "C",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "C",
+            "className": "(AP)일반화학Ⅰ",
+            "place": "화실1",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "C3",
+            "className": "일반생명과학Ⅰ",
+            "place": "생명과학실험Ⅰ",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "L",
+            "className": "사회문제와 인문학적 상상력",
+            "place": "인문2",
+            "day": "1",
+            "time": "4"
+        },
+        {
+            "id": "L",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "1",
+            "time": "4"
+        },
+        {
+            "id": "L",
+            "className": "생활속의 데이터 분석",
+            "place": "컴실1",
+            "day": "1",
+            "time": "4"
+        },
+        {
+            "id": "N",
+            "className": "생명과학실험Ⅰ",
+            "place": "생명과학실험Ⅰ",
+            "day": "1",
+            "time": "5"
+        },
+        {
+            "id": "N",
+            "className": "미래주제연구",
+            "place": "외국어2",
+            "day": "1",
+            "time": "5"
+        },
+        {
+            "id": "N",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "1",
+            "time": "5"
+        },
+        {
+            "id": "N2",
+            "className": "문학",
+            "place": "인문1",
+            "day": "1",
+            "time": "5"
+        },
+        {
+            "id": "ND",
+            "className": "생활속의 데이터 분석",
+            "place": "컴실1",
+            "day": "1",
+            "time": "5"
+        },
+        {
+            "id": "N",
+            "className": "생명과학실험Ⅰ",
+            "place": "생명과학실험Ⅰ",
+            "day": "1",
+            "time": "6"
+        },
+        {
+            "id": "N",
+            "className": "미래주제연구",
+            "place": "외국어2",
+            "day": "1",
+            "time": "6"
+        },
+        {
+            "id": "N",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "1",
+            "time": "6"
+        },
+        {
+            "id": "N2",
+            "className": "문학",
+            "place": "인문1",
+            "day": "1",
+            "time": "6"
+        },
+        {
+            "id": "ND",
+            "className": "생활속의 데이터 분석",
+            "place": "",
+            "day": "1",
+            "time": "6"
+        },
+        {
+            "id": "D",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "1",
+            "time": "7"
+        },
+        {
+            "id": "D",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "1",
+            "time": "7"
+        },
+        {
+            "id": "D2",
+            "className": "창의적디자인 Ⅰ",
+            "place": "미술실",
+            "day": "1",
+            "time": "7"
+        },
+        {
+            "id": "D3",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "1",
+            "time": "7"
+        },
+        {
+            "id": "D3",
+            "className": "일반생명과학Ⅰ",
+            "place": "생교",
+            "day": "1",
+            "time": "7"
+        },
+        {
+            "id": "D",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "1",
+            "time": "8"
+        },
+        {
+            "id": "D",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "1",
+            "time": "8"
+        },
+        {
+            "id": "D2",
+            "className": "창의적디자인 Ⅰ",
+            "place": "미술실",
+            "day": "1",
+            "time": "8"
+        },
+        {
+            "id": "D3",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "1",
+            "time": "8"
+        },
+        {
+            "id": "D3",
+            "className": "일반생명과학Ⅰ",
+            "place": "생교",
+            "day": "1",
+            "time": "8"
+        },
+        {
+            "id": "Y",
+            "className": "(AP)일반물리실험Ⅰ",
+            "place": "물실2",
+            "day": "2",
+            "time": "0"
+        },
+        {
+            "id": "Y",
+            "className": "경제",
+            "place": "인문3",
+            "day": "2",
+            "time": "0"
+        },
+        {
+            "id": "Y",
+            "className": "영미문화탐구",
+            "place": "외국어3",
+            "day": "2",
+            "time": "0"
+        },
+        {
+            "id": "Y",
+            "className": "화법과 작문",
+            "place": "인문1",
+            "day": "2",
+            "time": "0"
+        },
+        {
+            "id": "Y",
+            "className": "(AP)일반물리실험Ⅰ",
+            "place": "물실2",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "Y",
+            "className": "경제",
+            "place": "인문3",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "Y",
+            "className": "영미문화탐구",
+            "place": "외국어3",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "Y",
+            "className": "화법과 작문",
+            "place": "인문1",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "A",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "2",
+            "time": "2"
+        },
+        {
+            "id": "A",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "2",
+            "time": "2"
+        },
+        {
+            "id": "A3",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "2",
+            "time": "2"
+        },
+        {
+            "id": "A",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "A",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "A1",
+            "className": "생활스포츠",
+            "place": "체육관",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "N",
+            "className": "생명과학실험Ⅰ",
+            "place": "생명과학실험Ⅰ",
+            "day": "2",
+            "time": "4"
+        },
+        {
+            "id": "N",
+            "className": "미래주제연구",
+            "place": "외국어2",
+            "day": "2",
+            "time": "4"
+        },
+        {
+            "id": "N",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "2",
+            "time": "4"
+        },
+        {
+            "id": "D",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "3",
+            "time": "0"
+        },
+        {
+            "id": "D",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "3",
+            "time": "0"
+        },
+        {
+            "id": "ZT",
+            "className": "과학문명사",
+            "place": "생교",
+            "day": "3",
+            "time": "0"
+        },
+        {
+            "id": "D",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "3",
+            "time": "1"
+        },
+        {
+            "id": "D",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "3",
+            "time": "1"
+        },
+        {
+            "id": "D3",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "3",
+            "time": "1"
+        },
+        {
+            "id": "D3",
+            "className": "일반생명과학Ⅰ",
+            "place": "생교",
+            "day": "3",
+            "time": "1"
+        },
+        {
+            "id": "ND",
+            "className": "생활속의 데이터 분석",
+            "place": "컴실1",
+            "day": "3",
+            "time": "1"
+        },
+        {
+            "id": "L",
+            "className": "사회문제와 인문학적 상상력",
+            "place": "인문2",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "L",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "L",
+            "className": "생활속의 데이터 분석",
+            "place": "컴실1",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "L2",
+            "className": "Public Speaking and Presentation",
+            "place": "외국어2",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "L",
+            "className": "사회문제와 인문학적 상상력",
+            "place": "인문2",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "L",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "L",
+            "className": "생활속의 데이터 분석",
+            "place": "컴실1",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "L2",
+            "className": "Public Speaking and Presentation",
+            "place": "외국어2",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "M",
+            "className": "과학문명사",
+            "place": "생교",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "M",
+            "className": "미래주제연구",
+            "place": "외국어2",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "M",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "M",
+            "className": "생활속의 데이터 분석",
+            "place": "컴실1",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "M",
+            "className": "알고리즘",
+            "place": "컴실2",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "A",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "A",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "A3",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "A",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "3",
+            "time": "6"
+        },
+        {
+            "id": "A",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "3",
+            "time": "6"
+        },
+        {
+            "id": "A3",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "3",
+            "time": "6"
+        },
+        {
+            "id": "C",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "3",
+            "time": "7"
+        },
+        {
+            "id": "C",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "3",
+            "time": "7"
+        },
+        {
+            "id": "C3",
+            "className": "일반생명과학Ⅰ",
+            "place": "생명과학실험Ⅰ",
+            "day": "3",
+            "time": "7"
+        },
+        {
+            "id": "C",
+            "className": "(AP)일반화학Ⅰ",
+            "place": "화실1",
+            "day": "3",
+            "time": "7"
+        },
+        {
+            "id": "C",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "3",
+            "time": "8"
+        },
+        {
+            "id": "C",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "3",
+            "time": "8"
+        },
+        {
+            "id": "C",
+            "className": "(AP)일반화학Ⅰ",
+            "place": "화실1",
+            "day": "3",
+            "time": "8"
+        },
+        {
+            "id": "W",
+            "className": "경제",
+            "place": "인문3",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "W",
+            "className": "문학",
+            "place": "인문1",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "W",
+            "className": "영미문화탐구",
+            "place": "외국어3",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "W",
+            "className": "창의적디자인 Ⅰ",
+            "place": "미술실",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "W",
+            "className": "경제",
+            "place": "인문3",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "W",
+            "className": "문학",
+            "place": "인문1",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "W",
+            "className": "영미문화탐구",
+            "place": "외국어3",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "W",
+            "className": "창의적디자인 Ⅰ",
+            "place": "미술실",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "B",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "(AP)일반화학Ⅰ",
+            "place": "화실1",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "B3",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "(AP)미적분Ⅰ",
+            "place": "수교1",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "(AP)일반물리Ⅰ",
+            "place": "물교",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "(AP)일반화학Ⅰ",
+            "place": "화실1",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "B3",
+            "className": "확률과 통계",
+            "place": "수교2",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "O",
+            "className": "확률과 통계",
+            "place": "수교4",
+            "day": "4",
+            "time": "4"
+        },
+        {
+            "id": "O",
+            "className": "사회문제와 인문학적 상상력",
+            "place": "인문2",
+            "day": "4",
+            "time": "4"
+        },
+        {
+            "id": "O",
+            "className": "생활속의 공학",
+            "place": "융합공작실/3d",
+            "day": "4",
+            "time": "4"
+        },
+        {
+            "id": "O",
+            "className": "알고리즘",
+            "place": "컴실2",
+            "day": "4",
+            "time": "4"
+        }
+    ],
+    "user": [
+        {
+            "name": "김규린",
+            "id": "20101",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김현아",
+            "id": "20102",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "전세정",
+            "id": "20103",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "곽경규",
+            "id": "20104",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "김민승",
+            "id": "20105",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김지한",
+            "id": "20106",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "김지후",
+            "id": "20107",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "박주송",
+            "id": "20108",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "박한준",
+            "id": "20109",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                }
+            ]
+        },
+        {
+            "name": "양지석",
+            "id": "20110",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "유채현",
+            "id": "20111",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "이예준",
+            "id": "20112",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "이준아",
+            "id": "20113",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                }
+            ]
+        },
+        {
+            "name": "장지환",
+            "id": "20114",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "장호준",
+            "id": "20115",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "최승원",
+            "id": "20116",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "박주빈",
+            "id": "20201",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "양서영",
+            "id": "20202",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                }
+            ]
+        },
+        {
+            "name": "유승은",
+            "id": "20203",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김준석",
+            "id": "20204",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                }
+            ]
+        },
+        {
+            "name": "김현민",
+            "id": "20205",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                }
+            ]
+        },
+        {
+            "name": "박민준",
+            "id": "20206",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                }
+            ]
+        },
+        {
+            "name": "박찬진",
+            "id": "20207",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "선채훈",
+            "id": "20208",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "(AP)일반화학실험Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "안진우",
+            "id": "20209",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "원세현",
+            "id": "20210",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "윤성열",
+            "id": "20211",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "이민규",
+            "id": "20212",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "장현성",
+            "id": "20213",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "정상우",
+            "id": "20214",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "최재우",
+            "id": "20215",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "허준원",
+            "id": "20216",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "(AP)일반화학실험Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                }
+            ]
+        },
+        {
+            "name": "김지원",
+            "id": "20301",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "손효림",
+            "id": "20302",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "이에스라",
+            "id": "20303",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "김범석",
+            "id": "20304",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "(AP)일반화학실험Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "김성은",
+            "id": "20305",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "(AP)일반화학실험Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "김준영",
+            "id": "20306",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "박지환",
+            "id": "20307",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "박현준",
+            "id": "20308",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                }
+            ]
+        },
+        {
+            "name": "이도한",
+            "id": "20309",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "이동열",
+            "id": "20310",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "이윤혁",
+            "id": "20311",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "(AP)일반화학실험Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "임우빈",
+            "id": "20312",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "정민규",
+            "id": "20313",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "(AP)일반화학실험Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "정서율",
+            "id": "20314",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "정승효",
+            "id": "20315",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "양은미",
+            "id": "20401",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "유정민",
+            "id": "20402",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "최수진",
+            "id": "20403",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "김동윤",
+            "id": "20404",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "김범준",
+            "id": "20405",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "김상연",
+            "id": "20406",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "(AP)일반화학실험Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "유선준",
+            "id": "20407",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                }
+            ]
+        },
+        {
+            "name": "유정우",
+            "id": "20408",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "이상명",
+            "id": "20409",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "이선규",
+            "id": "20410",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                }
+            ]
+        },
+        {
+            "name": "이현서",
+            "id": "20411",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "임해윤",
+            "id": "20412",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "ZT"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                }
+            ]
+        },
+        {
+            "name": "전윤수",
+            "id": "20413",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "정건영",
+            "id": "20414",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "조연우",
+            "id": "20415",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "최한빈",
+            "id": "20416",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "정가은",
+            "id": "20501",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "황서영",
+            "id": "20502",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "구건율",
+            "id": "20503",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "W"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "권용찬",
+            "id": "20504",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "(AP)일반물리실험Ⅰ",
+                    "id": "Y"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "김범주",
+            "id": "20505",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "D3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김지호",
+            "id": "20506",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "문성준",
+            "id": "20507",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "생명과학실험Ⅰ",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "(AP)일반화학실험Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "L2"
+                }
+            ]
+        },
+        {
+            "name": "신세현",
+            "id": "20508",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "양재운",
+            "id": "20509",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "O"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Z"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "D2"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "우서진",
+            "id": "20510",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "D"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "B3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "B1"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "이민혁",
+            "id": "20511",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "X"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "화법과 작문",
+                    "id": "Y"
+                }
+            ]
+        },
+        {
+            "name": "이정우",
+            "id": "20512",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반화학Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "과학문명사",
+                    "id": "M"
+                },
+                {
+                    "className": "미래주제연구",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "L"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O2"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "이준우",
+            "id": "20513",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "일반생명과학Ⅰ",
+                    "id": "C3"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "W"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "N2"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                }
+            ]
+        },
+        {
+            "name": "조현우",
+            "id": "20514",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "D3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "O"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "N"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "L"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "M"
+                },
+                {
+                    "className": "경제",
+                    "id": "Z"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "영미문화탐구",
+                    "id": "Y"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "채재승",
+            "id": "20515",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "B"
+                },
+                {
+                    "className": "(AP)일반물리Ⅰ",
+                    "id": "C"
+                },
+                {
+                    "className": "확률과 통계",
+                    "id": "A3"
+                },
+                {
+                    "className": "생활스포츠",
+                    "id": "A1"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "L"
+                },
+                {
+                    "className": "생활속의 공학",
+                    "id": "M"
+                },
+                {
+                    "className": "생활속의 데이터 분석",
+                    "id": "ND"
+                },
+                {
+                    "className": "알고리즘",
+                    "id": "O"
+                },
+                {
+                    "className": "경제",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문제와 인문학적 상상력",
+                    "id": "W"
+                },
+                {
+                    "className": "창의적디자인 Ⅰ",
+                    "id": "Z"
+                },
+                {
+                    "className": "Public Speaking and Presentation",
+                    "id": "X"
+                }
+            ]
+        },
+        {
+            "name": "김성윤",
+            "id": "30308",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                }
+            ]
+        },
+        {
+            "name": "김수민",
+            "id": "30506",
+            "data": [
+                {
+                    "className": "(AP)미적분Ⅰ",
+                    "id": "A"
+                }
+            ]
+        }
+    ]
+}
