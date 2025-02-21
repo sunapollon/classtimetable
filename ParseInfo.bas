@@ -95,7 +95,7 @@ Public Function parseMatrix(id)
     Const blockHeight = 5
     Const beginX = 2
     Const beginY = 4
-    Const classCount = 7
+    Const classCount = 9
     Const day = 5
     
     Set parseMatrix = New Collection
@@ -108,18 +108,18 @@ Public Function parseMatrix(id)
         For classI = 0 To classCount - 1
             For i = 0 To blockHeight - 1
             
-            If Cells(beginY + 5 * dayI + i, beginX + 3 * classI).value = "" Then
+            If Cells(beginY + 6 * dayI + i, beginX + 4 * classI).value = "" Then
                 GoTo Continue
             End If
             
-            If Cells(beginY + 5 * dayI + i, beginX + 3 * classI).MergeCells Then
+            If Cells(beginY + 6 * dayI + i, beginX + 4 * classI).MergeCells Then
                 GoTo Continue
             End If
-            cn = Trim(Cells(beginY + 5 * dayI + i, beginX + 3 * classI + 1).value)
+            cn = Trim(Cells(beginY + 6 * dayI + i, beginX + 4 * classI + 1).value)
             Set oneClassDict = CreateObject("Scripting.Dictionary")
-            oneClassDict.Add "id", Cells(beginY + 5 * dayI + i, beginX + 3 * classI).value
+            oneClassDict.Add "id", Cells(beginY + 6 * dayI + i, beginX + 4 * classI).value
             oneClassDict.Add "className", cn
-            oneClassDict.Add "place", Cells(beginY + 5 * dayI + i, beginX + 3 * classI + 2).value
+            oneClassDict.Add "place", Cells(beginY + 6 * dayI + i, beginX + 4 * classI + 3).value
             oneClassDict.Add "day", dayI
             oneClassDict.Add "time", classI
             parseMatrix.Add oneClassDict
@@ -152,7 +152,7 @@ End Function
 
 Public Function parseUser(id)
     Dim sheet As Worksheet
-    Set sheet = Worksheets("수강신청 및 분반")
+    Set sheet = Worksheets("반배정작업")
     sheet.Activate
     
     Const headerY = 9
