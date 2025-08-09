@@ -149,7 +149,7 @@ function draw() {
     gginfo = _.orderBy(gginfo, ['time'], ['asc']).reverse();
     for (let i of gginfo) {
         document.getElementById('stable').innerHTML += `<tr>
-                    <td><A href = "https://sunapollon.github.io/myclass/#${i.id}" target = "blank" class="nameLink">${i.name}</A></td>
+                    <td><A href = "https://sunapollon.github.io/classtimetable/#${i.id}" target = "blank" class="nameLink">${i.name}</A></td>
                     <td>${i.time}시간</td>
                     ${i.html}
                 </tr>`
