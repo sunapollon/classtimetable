@@ -23,7 +23,7 @@
         },
         {
             "id": "C",
-            "className": "(AP)프로그램밍과 문제해결",
+            "className": "(AP)프로그래밍과 문제해결",
             "place": "컴실2",
             "day": "0",
             "time": "0"
@@ -51,7 +51,7 @@
         },
         {
             "id": "C",
-            "className": "(AP)프로그램밍과 문제해결",
+            "className": "(AP)프로그래밍과 문제해결",
             "place": "컴실2",
             "day": "0",
             "time": "1"
@@ -562,7 +562,7 @@
         },
         {
             "id": "C",
-            "className": "(AP)프로그램밍과 문제해결",
+            "className": "(AP)프로그래밍과 문제해결",
             "place": "컴실2",
             "day": "2",
             "time": "2"
@@ -590,7 +590,7 @@
         },
         {
             "id": "C",
-            "className": "(AP)프로그램밍과 문제해결",
+            "className": "(AP)프로그래밍과 문제해결",
             "place": "컴실2",
             "day": "2",
             "time": "3"
