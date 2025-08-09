@@ -84,7 +84,7 @@ function draw() {
     }
     if (document.getElementById('color').checked) colorSet['SA'] = colors[cn]
     ++cn
-
+    //console.log(user.data)
     for (let i of user.data) {
         let nowClass = _.filter(data.class, i).length
         totalClass += nowClass
@@ -95,78 +95,37 @@ function draw() {
                 colorSet[cl.className] = colors[cn]
             }
             classList[parseInt(cl.day)][parseInt(cl.time)] = cl.className
+            //console.log(classList, cl)
         })
 
         for (let u of data.user) {
             if (_.find(u.data, i)) {
-                if (!gg[u.id]) { gg[u.id] = [] }
-                gg[u.id].push({ name: i.className, time: nowClass })
+                if (!gg[u.id]) {gg[u.id] = []}
+                gg[u.id].push({name: i.className, time: nowClass})
             }
         }
 
         ++cn;
     }
-
-    // 시간표 테이블 렌더링
     document.getElementById('table').innerHTML = ''
-    for (let i = 1; i <= 9; i++) {
-        const row = document.createElement("tr")
-        const periodCell = document.createElement("td")
-        periodCell.textContent = `${i}교시`
-        row.appendChild(periodCell)
-
-        for (let day = 0; day < 5; day++) {
-            const cell = document.createElement("td")
-            const subjectsAtTime = []
-
-            for (let cls of data.class) {
-                if (parseInt(cls.day) === day && parseInt(cls.time) === i - 1) {
-                    subjectsAtTime.push(cls)
-                }
-            }
-
-            if (subjectsAtTime.length === 0) {
-                const fallback = classList[day][i - 1]
-                cell.textContent = document.getElementById('gongang').checked ? "공강" : fallback
-            } else {
-                const content = subjectsAtTime.map(cls => {
-                    if (["SA", "창체", "동아리"].includes(cls.className)) {
-                        return `${cls.className}`
-                    } else {
-                        return `${cls.className}<br>${cls.teacher}<br>${cls.place}`
-                    }
-                }).join("<br><br>")
-
-                cell.innerHTML = content
-
-                const color = colorSet[subjectsAtTime[0].className]
-                if (color) cell.classList.add(color, "lighten-3")
-
-                if (!["공강", "SA", "창체", "동아리", " "].includes(subjectsAtTime[0].className)) {
-                    cell.classList.add("openModal")
-                    cell.setAttribute("onclick", `modalHandler('${subjectsAtTime[0].className}')`)
-                }
-            }
-
-            row.appendChild(cell)
-        }
-
-        document.getElementById('table').appendChild(row)
-    }
-
-    // 겹강 테이블 렌더링
     document.getElementById('stable').innerHTML = ''
+    for (let i = 1; i <= 9; i++) {
+        document.getElementById('table').innerHTML += `<tr>
+        <td>${i}교시</td>
+        <td onclick="modalHandler('${classList[0][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[0][i - 1]) ? '' : 'openModal'} ${colorSet[classList[0][i - 1]]} lighten-3">${classList[0][i - 1]}</td>
+        <td onclick="modalHandler('${classList[1][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[1][i - 1]) ? '' : 'openModal'} ${colorSet[classList[1][i - 1]]} lighten-3">${classList[1][i - 1]}</td>
+        <td onclick="modalHandler('${classList[2][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[2][i - 1]) ? '' : 'openModal'} ${colorSet[classList[2][i - 1]]} lighten-3">${classList[2][i - 1]}</td>
+        <td onclick="modalHandler('${classList[3][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[3][i - 1]) ? '' : 'openModal'} ${colorSet[classList[3][i - 1]]} lighten-3">${classList[3][i - 1]}</td>
+        <td onclick="modalHandler('${classList[4][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[4][i - 1]) ? '' : 'openModal'} ${colorSet[classList[4][i - 1]]} lighten-3">${classList[4][i - 1]}</td>
+    </tr>`
+    }
     let mag = 0
     for (let i in gg) {
-        if (i !== document.getElementById("stuid").value && (!search || _.find(data.user, { id: i }).name.includes(search))) {
-            mag = Math.max(mag, gg[i].length)
-        }
+        if (i !== document.getElementById("stuid").value && (!search || _.find(data.user, {id: i}).name.includes(search))) mag = Math.max(mag, gg[i].length)
     }
-
-    document.getElementById('stableh').innerHTML = `<th>이름</th><th>시간</th>`
-    for (let i = 0; i < mag; i++) {
-        document.getElementById('stableh').innerHTML += `<th>${i + 1}</th>`
-    }
+    document.getElementById('stableh').innerHTML = `<th>이름</th>
+            <th>시간</th>`
+    for (let i = 0; i < mag; i++) document.getElementById('stableh').innerHTML += `<th>${i + 1}</th>`
 
     for (let i of data.user) {
         if (stuid[0] === i.id[0] && stuid !== i.id && !gg[i.id]) gg[i.id] = []
@@ -180,31 +139,25 @@ function draw() {
             ti += j.time
         }
         for (let j = 0; j < mag - gg[i].length; j++) thtml += '<td></td>'
-        if (i !== document.getElementById("stuid").value && (!search || _.find(data.user, { id: i }).name.includes(search))) {
-            gginfo.push({
-                name: _.find(data.user, { id: i }).name,
-                id: _.find(data.user, { id: i }).id,
-                html: thtml,
-                time: ti
-            })
-        }
+        if (i !== document.getElementById("stuid").value && (!search || _.find(data.user, {id: i}).name.includes(search))) gginfo.push({
+            name: _.find(data.user, {id: i}).name,
+            id: _.find(data.user, {id: i}).id,
+            html: thtml,
+            time: ti
+        })
     }
-
-    gginfo = _.orderBy(gginfo, ['time'], ['asc']).reverse()
+    gginfo = _.orderBy(gginfo, ['time'], ['asc']).reverse();
     for (let i of gginfo) {
         document.getElementById('stable').innerHTML += `<tr>
-            <td><a href="https://sunapollon.github.io/classtimetable/#${i.id}" target="blank" class="nameLink">${i.name}</a></td>
-            <td>${i.time}시간</td>
-            ${i.html}
-        </tr>`
+                    <td><A href = "https://kkigon.github.io/myclass/#${i.id}" target = "blank" class="nameLink">${i.name}</A></td>
+                    <td>${i.time}시간</td>
+                    ${i.html}
+                </tr>`
     }
-
-    if (realClass === totalClass) {
-        document.getElementById('totalClass').innerText = totalClass + '학점'
-    } else {
-        document.getElementById('totalClass').innerText = totalClass + '시간 (' + realClass + '학점)'
-    }
+    if (realClass === totalClass) document.getElementById('totalClass').innerText = totalClass + '학점'
+    else document.getElementById('totalClass').innerText = totalClass + '시간 (' + realClass + '학점)'
 }
+
 
 function modalHandler(subjectName, soon = false) {
 
