@@ -23,7 +23,7 @@
         },
         {
             "id": "N",
-            "className": "창의적글쓰기",
+            "className": "창의적 글쓰기",
             "place": "인교2",
             "day": "0",
             "time": "0"
@@ -51,7 +51,7 @@
         },
         {
             "id": "N",
-            "className": "창의적글쓰기",
+            "className": "창의적 글쓰기",
             "place": "인교2",
             "day": "0",
             "time": "1"
@@ -191,7 +191,7 @@
         },
         {
             "id": "A",
-            "className": "창의적글쓰기",
+            "className": "창의적 글쓰기",
             "place": "인교2",
             "day": "1",
             "time": "0"
@@ -219,7 +219,7 @@
         },
         {
             "id": "A",
-            "className": "창의적글쓰기",
+            "className": "창의적 글쓰기",
             "place": "인교2",
             "day": "1",
             "time": "1"
@@ -317,7 +317,7 @@
         },
         {
             "id": "B",
-            "className": "창의적글쓰기",
+            "className": "창의적 글쓰기",
             "place": "인교2",
             "day": "1",
             "time": "4"
@@ -345,7 +345,7 @@
         },
         {
             "id": "B",
-            "className": "창의적글쓰기",
+            "className": "창의적 글쓰기",
             "place": "인교2",
             "day": "1",
             "time": "5"
@@ -471,7 +471,7 @@
         },
         {
             "id": "N",
-            "className": "창의적글쓰기",
+            "className": "창의적 글쓰기",
             "place": "인교2",
             "day": "2",
             "time": "2"
@@ -653,7 +653,7 @@
         },
         {
             "id": "A",
-            "className": "창의적글쓰기",
+            "className": "창의적 글쓰기",
             "place": "인교2",
             "day": "3",
             "time": "4"
@@ -772,7 +772,7 @@
         },
         {
             "id": "B",
-            "className": "창의적글쓰기",
+            "className": "창의적 글쓰기",
             "place": "인교2",
             "day": "4",
             "time": "2"
