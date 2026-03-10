@@ -23,7 +23,7 @@
         },
         {
             "id": "N",
-            "className": "창의적 글쓰기",
+            "className": "창의적글쓰기",
             "place": "인교2",
             "day": "0",
             "time": "0"
@@ -51,7 +51,7 @@
         },
         {
             "id": "N",
-            "className": "창의적 글쓰기",
+            "className": "창의적글쓰기",
             "place": "인교2",
             "day": "0",
             "time": "1"
@@ -85,13 +85,6 @@
             "time": "2"
         },
         {
-            "id": "M4",
-            "className": "(AP)선형대수학",
-            "place": "수교4",
-            "day": "0",
-            "time": "2"
-        },
-        {
             "id": "M",
             "className": "중국어",
             "place": "외교3",
@@ -120,13 +113,6 @@
             "time": "3"
         },
         {
-            "id": "M4",
-            "className": "(AP)선형대수학",
-            "place": "",
-            "day": "0",
-            "time": "3"
-        },
-        {
             "id": "L",
             "className": "중국어",
             "place": "외교3",
@@ -143,7 +129,7 @@
         {
             "id": "C",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "0",
             "time": "5"
         },
@@ -164,7 +150,7 @@
         {
             "id": "C",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "0",
             "time": "6"
         },
@@ -185,13 +171,13 @@
         {
             "id": "A",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "1",
             "time": "0"
         },
         {
             "id": "A",
-            "className": "창의적 글쓰기",
+            "className": "창의적글쓰기",
             "place": "인교2",
             "day": "1",
             "time": "0"
@@ -213,13 +199,13 @@
         {
             "id": "A",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "1",
             "time": "1"
         },
         {
             "id": "A",
-            "className": "창의적 글쓰기",
+            "className": "창의적글쓰기",
             "place": "인교2",
             "day": "1",
             "time": "1"
@@ -262,14 +248,7 @@
         {
             "id": "X4",
             "className": "(AP)선형대수학",
-            "place": "수교4",
-            "day": "1",
-            "time": "2"
-        },
-        {
-            "id": "X21",
-            "className": "미술과 테크놀로지Ⅰ",
-            "place": "디자인",
+            "place": "수교5",
             "day": "1",
             "time": "2"
         },
@@ -297,27 +276,20 @@
         {
             "id": "X4",
             "className": "(AP)선형대수학",
-            "place": "수교4",
-            "day": "1",
-            "time": "3"
-        },
-        {
-            "id": "X21",
-            "className": "미술과 테크놀로지Ⅰ",
-            "place": "",
+            "place": "수교5",
             "day": "1",
             "time": "3"
         },
         {
             "id": "B",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "1",
             "time": "4"
         },
         {
             "id": "B",
-            "className": "창의적 글쓰기",
+            "className": "창의적글쓰기",
             "place": "인교2",
             "day": "1",
             "time": "4"
@@ -339,13 +311,13 @@
         {
             "id": "B",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "1",
             "time": "5"
         },
         {
             "id": "B",
-            "className": "창의적 글쓰기",
+            "className": "창의적글쓰기",
             "place": "인교2",
             "day": "1",
             "time": "5"
@@ -388,7 +360,7 @@
         {
             "id": "C",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "1",
             "time": "7"
         },
@@ -402,7 +374,7 @@
         {
             "id": "M4",
             "className": "(AP)선형대수학",
-            "place": "수교4",
+            "place": "수교5",
             "day": "1",
             "time": "8"
         },
@@ -471,7 +443,7 @@
         },
         {
             "id": "N",
-            "className": "창의적 글쓰기",
+            "className": "창의적글쓰기",
             "place": "인교2",
             "day": "2",
             "time": "2"
@@ -501,13 +473,6 @@
             "id": "M",
             "className": "심화아름다운 바이오화학",
             "place": "생교",
-            "day": "2",
-            "time": "3"
-        },
-        {
-            "id": "M4",
-            "className": "(AP)선형대수학",
-            "place": "",
             "day": "2",
             "time": "3"
         },
@@ -542,7 +507,7 @@
         {
             "id": "X4",
             "className": "(AP)선형대수학",
-            "place": "수교4",
+            "place": "수교5",
             "day": "3",
             "time": "0"
         },
@@ -577,21 +542,14 @@
         {
             "id": "X4",
             "className": "(AP)선형대수학",
-            "place": "수교4",
-            "day": "3",
-            "time": "1"
-        },
-        {
-            "id": "X22",
-            "className": "음악과 테크놀로지Ⅰ",
-            "place": "음악실",
+            "place": "수교5",
             "day": "3",
             "time": "1"
         },
         {
             "id": "D",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "3",
             "time": "2"
         },
@@ -605,7 +563,7 @@
         {
             "id": "D4",
             "className": "(AP)선형대수학",
-            "place": "수교4",
+            "place": "수교5",
             "day": "3",
             "time": "2"
         },
@@ -619,7 +577,7 @@
         {
             "id": "D",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "3",
             "time": "3"
         },
@@ -633,7 +591,7 @@
         {
             "id": "D4",
             "className": "(AP)선형대수학",
-            "place": "수교4",
+            "place": "수교5",
             "day": "3",
             "time": "3"
         },
@@ -647,13 +605,13 @@
         {
             "id": "A",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "3",
             "time": "4"
         },
         {
             "id": "A",
-            "className": "창의적 글쓰기",
+            "className": "창의적글쓰기",
             "place": "인교2",
             "day": "3",
             "time": "4"
@@ -688,7 +646,7 @@
         },
         {
             "id": "Y",
-            "className": "심화아름다운 바이오화학",
+            "className": "심화으름다운바이오화학",
             "place": "화실2",
             "day": "3",
             "time": "5"
@@ -716,7 +674,7 @@
         },
         {
             "id": "Y",
-            "className": "심화아름다운 바이오화학",
+            "className": "심화으름다운바이오화학",
             "place": "화실2",
             "day": "3",
             "time": "6"
@@ -766,13 +724,13 @@
         {
             "id": "B",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "4",
             "time": "2"
         },
         {
             "id": "B",
-            "className": "창의적 글쓰기",
+            "className": "창의적글쓰기",
             "place": "인교2",
             "day": "4",
             "time": "2"
@@ -787,7 +745,7 @@
         {
             "id": "D",
             "className": "수학세미나Ⅰ",
-            "place": "수교7",
+            "place": "수교4",
             "day": "4",
             "time": "3"
         },
@@ -801,7 +759,7 @@
         {
             "id": "D4",
             "className": "(AP)선형대수학",
-            "place": "수교4",
+            "place": "수교5",
             "day": "4",
             "time": "3"
         },
@@ -815,7 +773,7 @@
         {
             "id": "D4",
             "className": "(AP)선형대수학",
-            "place": "수교4",
+            "place": "수교5",
             "day": "4",
             "time": "4"
         }
@@ -911,7 +869,7 @@
                 },
                 {
                     "className": "음악과 테크놀로지Ⅰ",
-                    "id": "B2"
+                    "id": "X22"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
@@ -937,7 +895,7 @@
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "A"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
@@ -3413,11 +3371,11 @@
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "C"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "A"
+                    "id": "N"
                 },
                 {
                     "className": "객체지향프로그래밍",
@@ -3425,7 +3383,7 @@
                 },
                 {
                     "className": "음악과 테크놀로지Ⅰ",
-                    "id": "X22"
+                    "id": "C2"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
