@@ -675,3006 +675,2746 @@
     ],
     "user": [
         {
-            "name": "30101",
-            "id": "20102",
+            "name": "김현아",
+            "id": "30101",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30102",
-            "id": "20303",
+            "name": "이에스라",
+            "id": "30102",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30103",
-            "id": "20501",
+            "name": "정가은",
+            "id": "30103",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30104",
-            "id": "20105",
+            "name": "김민승",
+            "id": "30104",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30105",
-            "id": "20306",
+            "name": "김준영",
+            "id": "30105",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30106",
-            "id": "20106",
+            "name": "김지한",
+            "id": "30106",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30107",
-            "id": "20307",
+            "name": "박지환",
+            "id": "30107",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30108",
-            "id": "20209",
+            "name": "안진우",
+            "id": "30108",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30109",
-            "id": "20407",
+            "name": "유선준",
+            "id": "30109",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30110",
-            "id": "20409",
+            "name": "이상명",
+            "id": "30110",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30111",
-            "id": "20410",
+            "name": "이선규",
+            "id": "30111",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 }
             ]
         },
         {
-            "name": "30112",
-            "id": "20512",
+            "name": "이정우",
+            "id": "30112",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30113",
-            "id": "20411",
+            "name": "이현서",
+            "id": "30113",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30114",
-            "id": "20414",
+            "name": "정건영",
+            "id": "30114",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30115",
-            "id": "20214",
+            "name": "정상우",
+            "id": "30115",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30116",
-            "id": "20515",
+            "name": "채재승",
+            "id": "30116",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30201",
-            "id": "20202",
+            "name": "양서영",
+            "id": "30201",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30202",
-            "id": "20401",
+            "name": "양은미",
+            "id": "30202",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30203",
-            "id": "20104",
+            "name": "곽경규",
+            "id": "30203",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30204",
-            "id": "20504",
+            "name": "권용찬",
+            "id": "30204",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30205",
-            "id": "20405",
+            "name": "김범준",
+            "id": "30205",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 }
             ]
         },
         {
-            "name": "30206",
-            "id": "20107",
+            "name": "김지후",
+            "id": "30206",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30207",
-            "id": "20509",
+            "name": "양재운",
+            "id": "30207",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30208",
-            "id": "20510",
+            "name": "우서진",
+            "id": "30208",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30209",
-            "id": "20210",
+            "name": "원세현",
+            "id": "30209",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30210",
-            "id": "20408",
+            "name": "유정우",
+            "id": "30210",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30211",
-            "id": "20211",
+            "name": "윤성열",
+            "id": "30211",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30212",
-            "id": "20112",
+            "name": "이예준",
+            "id": "30212",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30213",
-            "id": "20412",
+            "name": "임해윤",
+            "id": "30213",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30214",
-            "id": "20114",
+            "name": "장지환",
+            "id": "30214",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30215",
-            "id": "20314",
+            "name": "정서율",
+            "id": "30215",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30216",
-            "id": "20216",
+            "name": "허준원",
+            "id": "30216",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30301",
-            "id": "20201",
+            "name": "박주빈",
+            "id": "30301",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 }
             ]
         },
         {
-            "name": "30302",
-            "id": "20502",
+            "name": "황서영",
+            "id": "30302",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30303",
-            "id": "20204",
+            "name": "김준석",
+            "id": "30303",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30304",
-            "id": "20506",
+            "name": "김지호",
+            "id": "30304",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30305",
-            "id": "20108",
+            "name": "박주송",
+            "id": "30305",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30306",
-            "id": "20308",
+            "name": "박현준",
+            "id": "30306",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30307",
-            "id": "20508",
+            "name": "신세현",
+            "id": "30307",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30308",
-            "id": "20110",
+            "name": "양지석",
+            "id": "30308",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30309",
-            "id": "20310",
+            "name": "이동열",
+            "id": "30309",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 }
             ]
         },
         {
-            "name": "30310",
-            "id": "20113",
+            "name": "이준아",
+            "id": "30310",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30311",
-            "id": "20213",
+            "name": "장현성",
+            "id": "30311",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30312",
-            "id": "20413",
+            "name": "전윤수",
+            "id": "30312",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30313",
-            "id": "20514",
+            "name": "조현우",
+            "id": "30313",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30314",
-            "id": "20116",
+            "name": "최승원",
+            "id": "30314",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30315",
-            "id": "20416",
+            "name": "최한빈",
+            "id": "30315",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "물리학세미나Ⅰ",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "D4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30401",
-            "id": "20101",
+            "name": "김규린",
+            "id": "30401",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30402",
-            "id": "20402",
+            "name": "유정민",
+            "id": "30402",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30403",
-            "id": "20503",
+            "name": "구건율",
+            "id": "30403",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30404",
-            "id": "20404",
+            "name": "김동윤",
+            "id": "30404",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30405",
-            "id": "20406",
+            "name": "김상연",
+            "id": "30405",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30406",
-            "id": "20305",
+            "name": "김성은",
+            "id": "30406",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30407",
-            "id": "20507",
+            "name": "문성준",
+            "id": "30407",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30408",
-            "id": "20206",
+            "name": "박민준",
+            "id": "30408",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30409",
-            "id": "20109",
+            "name": "박한준",
+            "id": "30409",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 }
             ]
         },
         {
-            "name": "30410",
-            "id": "20208",
+            "name": "선채훈",
+            "id": "30410",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30411",
-            "id": "20111",
+            "name": "유채현",
+            "id": "30411",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30412",
-            "id": "20212",
+            "name": "이민규",
+            "id": "30412",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 }
             ]
         },
         {
-            "name": "30413",
-            "id": "20511",
+            "name": "이민혁",
+            "id": "30413",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30414",
-            "id": "20312",
+            "name": "임우빈",
+            "id": "30414",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급물리학Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 }
             ]
         },
         {
-            "name": "30415",
-            "id": "20313",
+            "name": "정민규",
+            "id": "30415",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "L2"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "유기화학의 이해",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         },
         {
-            "name": "30416",
-            "id": "20415",
+            "name": "조연우",
+            "id": "30416",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "화학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "M4"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "X"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30501",
-            "id": "20301",
+            "name": "김지원",
+            "id": "30501",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30502",
-            "id": "20302",
+            "name": "손효림",
+            "id": "30502",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30503",
-            "id": "20203",
+            "name": "유승은",
+            "id": "30503",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30504",
-            "id": "20103",
+            "name": "전세정",
+            "id": "30504",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 }
             ]
         },
         {
-            "name": "30505",
-            "id": "20403",
+            "name": "최수진",
+            "id": "30505",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30506",
-            "id": "20304",
+            "name": "김범석",
+            "id": "30506",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "M"
                 }
             ]
         },
         {
-            "name": "30507",
-            "id": "20505",
+            "name": "김범주",
+            "id": "30507",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30508",
-            "id": "20205",
+            "name": "김현민",
+            "id": "30508",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30509",
-            "id": "20207",
+            "name": "박찬진",
+            "id": "30509",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30510",
-            "id": "20309",
+            "name": "이도한",
+            "id": "30510",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "미술과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "X21"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30511",
-            "id": "20311",
+            "name": "이윤혁",
+            "id": "30511",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "고급영어독해",
-                    "id": "1"
+                    "id": "Z"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30512",
-            "id": "20513",
+            "name": "이준우",
+            "id": "30512",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "(AP)선형대수학",
-                    "id": "1"
+                    "id": "X4"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "Z"
                 }
             ]
         },
         {
-            "name": "30513",
-            "id": "20115",
+            "name": "장호준",
+            "id": "30513",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "객체지향프로그래밍",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "일본어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "정보과학융합프로젝트Ⅰ",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30514",
-            "id": "20315",
+            "name": "정승효",
+            "id": "30514",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "A"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "심화아름다운 바이오화학",
-                    "id": "1"
+                    "id": "Y"
                 }
             ]
         },
         {
-            "name": "30515",
-            "id": "20215",
+            "name": "최재우",
+            "id": "30515",
             "data": [
                 {
                     "className": "수학세미나Ⅰ",
-                    "id": "1"
+                    "id": "B"
                 },
                 {
                     "className": "창의적 글쓰기",
-                    "id": "1"
+                    "id": "N"
                 },
                 {
                     "className": "세포생물학",
-                    "id": "1"
-                },
-                {
-                    "className": "음악과 테크놀로지Ⅰ",
-                    "id": "1"
+                    "id": "C"
                 },
                 {
                     "className": "생물학 세미나Ⅰ",
-                    "id": "1"
+                    "id": "D"
                 },
                 {
                     "className": "중국어",
-                    "id": "1"
+                    "id": "M"
                 },
                 {
                     "className": "융합@수학Ⅱ",
-                    "id": "1"
+                    "id": "L"
                 },
                 {
                     "className": "심화물상과학과 융합",
-                    "id": "1"
+                    "id": "X"
                 }
             ]
         }
